@@ -3,6 +3,8 @@
 // ~~~~~~~~aashutosh001~~~~~~~~~~
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+// Result = Partial Correct Answer (30 marks)
+
 // Optimizations Done :
 // Not placing elements greater than k or '1' in vector.
 // Formulated total number of cases based on number of ones and other all cases.
