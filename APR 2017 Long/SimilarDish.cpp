@@ -33,8 +33,7 @@ int main()
 	while(t--) {
 		int res = 0;
 		char s11[200], s12[200], s13[200], s14[200], s21[200], s22[200], s23[200], s24[200];
-		scanf("%s%s%s%s",s11, s12, s13, s14);
-		scanf("%s%s%s%s",s21, s22, s23, s24);
+		cin >> s11 >> s12 >> s13 >> s14 >> s21 >> s22 >> s23 >> s24;
 		if(strcmp(s11,s21)==0) res++;
 		if(strcmp(s11,s22)==0) res++;
 		if(strcmp(s11,s23)==0) res++;
