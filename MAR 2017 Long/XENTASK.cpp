@@ -14,16 +14,16 @@ int MIN(BIG x, BIG y){
 int main()
 {
 	int t;
-	scanf("%d",&t);
+	cin >> t;
 	while(t--){
 		BIG n,i,j;
-		scanf("%ld",&n);
+		cin >> n;
 		BIG x[n],y[n];
 		for(i=0;i<n;i++){
-			scanf("%ld",&x[i]);
+			cin >> x[i];
 		}
 		for(j=0;j<n;j++){
-			scanf("%ld",&y[j]);
+			cin >> y[j];
 		}
 		BIG p1 = 0 ,p2 = 0;
 		for(i=0;i<n;i++){
@@ -36,7 +36,7 @@ int main()
 				p2 = p2 + x[i];
 			}
 		}
-		printf("%ld\n",MIN(p1,p2));
+		cout << MIN(p1,p2) << endl;
 	}
 	return 0;	
 }

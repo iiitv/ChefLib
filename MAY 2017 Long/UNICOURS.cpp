@@ -1,12 +1,15 @@
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-// ~~~~~~~© Aashutosh Rathi~~~~~~
+// ~~~~~~~Â© Aashutosh Rathi~~~~~~
 // ~~~~~~~~aashutosh001~~~~~~~~~~
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Result : Correct Answer (100 pts)
+
 #include <bits/stdc++.h>
 #include <stdio.h>
-
+ 
 using namespace std;
-
+ 
 #define mod(x) 			x%1000000007;
 #define MIN(n1, n2 )    ((n1) > (n2) ? (n2) : (n1))
 #define MAX(n1, n2 )    ((n1) > (n2) ? (n1) : (n2))
@@ -19,17 +22,23 @@ using namespace std;
 #define scanLLD(a) 		scanf("%lld",&a)
 #define scanstr(s) 		scanf("%s",s)
 #define scanline(l) 	scanf(" %[^\n]",l);
-
+ 
 typedef long int BIG;
 typedef long long PAPA;
-
+ 
 int main() {
 	std::ios_base::sync_with_stdio(false);
-	BIG n;
-	cin >> n;
-	for(i=0;i<n;i++) {
-		
+	int t;
+	cin >> t;
+	while(t--) {
+		int n;
+		cin >> n;
+		int a[n], i;
+		for(i=0; i<n; i++) {
+			cin >> a[i];
+		}
+		sort(a,a+n);
+		cout << n - a[n-1] << endl;
 	}
-
 	return 0;	
-}
+} 

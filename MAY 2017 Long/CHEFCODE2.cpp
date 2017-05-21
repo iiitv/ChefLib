@@ -2,6 +2,9 @@
 // ~~~~~~~© Aashutosh Rathi~~~~~~
 // ~~~~~~~~aashutosh001~~~~~~~~~~
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Result = Partial Correct Answer (30 marks)
+
 #include <bits/stdc++.h>
 #include <stdio.h>
 

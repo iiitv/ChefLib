@@ -2,6 +2,9 @@
 // ~~~~~~~© Aashutosh Rathi~~~~~~
 // ~~~~~~~~aashutosh001~~~~~~~~~~
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// Result = Correct Answer (100 marks)
+
 #include <bits/stdc++.h>
 #include <stdio.h>
 
