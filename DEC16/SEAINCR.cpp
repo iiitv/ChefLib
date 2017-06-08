@@ -1,9 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+ 
 using namespace std;
-
+ 
 int BinSearch(vector<int> &v, int l, int r, int h) {
 	while (r-l > 1) {
 	int m = l + (r-l)/2;
@@ -14,11 +14,11 @@ int BinSearch(vector<int> &v, int l, int r, int h) {
 	}
 	return r;
 }
-
+ 
 int resfn(vector<int> &x) {
 	if (x.size() == 0)
 		return 0;
-
+ 
 	vector<int> end(x.size(), 0);
 	int length = 1; 
 	end[0] = x[0];
@@ -28,15 +28,15 @@ int resfn(vector<int> &x) {
 		
 		else if (x[i] > end[length-1])
 			end[length++] = x[i];
-
+ 
 		else
 			end[BinSearch(end, -1, length-1, x[i])] = x[i];
 	}
-
+ 
 	return length;
 }
-
-
+ 
+ 
 int main() 
 {
 	std::ios::sync_with_stdio(false); //for making FASTER I/O.
@@ -52,7 +52,7 @@ int main()
 		{
 			cin >> v1[i];
 		}
-
+ 
 		while(m--)
 		{
 			int l,r;
@@ -61,6 +61,6 @@ int main()
 			copy(v1.begin()+l-1,v1.begin()+r,newvec.begin());
 			cout << resfn(newvec) << endl;
 		}
-
+ 
 	}
 }
