@@ -6,6 +6,7 @@
 - [ ] I have a better solution for this problem.
 - [ ] I have checked Code Quality for my code (check code standards).
 - [ ] I got AC for this problem when contest was live. (Not necessary, but appericiable).
+- [ ] I have cross checked that my solution is still passing on Contest Question (in case you make some changes).
 - [ ] I will send my PR after I'm assigned to this issue by any maintainter.
 - [ ] Assign this issue to me.
 
