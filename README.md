@@ -1,4 +1,6 @@
 # ChefLib
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/ChefLib/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ### Library to Sweet Dishes (codes) by Chefs (Coders).
 
 This repository is collection of CodeChef Contest Solutions. 
