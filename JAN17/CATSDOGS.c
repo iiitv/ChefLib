@@ -31,10 +31,15 @@ int main()
 			printf("no\n");
 		else if(d==0 && l<c*4)
 			printf("no\n");
+		else if(l>(c+d)*4)
+			printf("no\n");
+		else if(c>2*d && l<=d*4)
+			printf("no\n");
 		else if(c>2*d && l<(d*4+(c-2*d)*4))
 			printf("no\n");
-		else 
+		else
 			printf("yes\n");
+
 	}
 }
 	return 0;
