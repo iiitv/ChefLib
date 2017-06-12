@@ -33,5 +33,4 @@ See [CONTRIBUTING.md](https://github.com/aashutoshrathi/ChefLib/blob/master/CONT
 
 ## Project Maintainers
 
-* [Monal Shadi](https://github.com/Monal5031)
-* [Aashutosh Rathi](https://github.com/aashutoshrathi)
+[![image](img/C2.png)](https://github.com/Monal5031) [![image](img/C1.png)](https://github.com/aashutoshrathi)
