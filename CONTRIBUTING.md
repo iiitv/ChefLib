@@ -1,6 +1,6 @@
 ## How to contribute?
 
-* Have a look at the table in README.md. They contain the list of codes solved by people in CodeChef's rated contests.
+* Have a look at the table in README.md. It contain the list of codes solved by people in CodeChef's rated contests.
 * Find a code for which an entry which is not yet added create an issue for it.
 * Make sure you are assigned for the issue before sending the PR.
 * Code added should follow the standard guidelines of that language, untidy codes will not be accepted.
