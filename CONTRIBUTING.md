@@ -1,13 +1,13 @@
 ## How to contribute?
 
-* Have a look at the table in README. They contain the list of codes solved by people in CodeChefs rated contests.
-* Find a code which an entry which is not yet added create an issue for it.
+* Have a look at the table in README.md. They contain the list of codes solved by people in CodeChef's rated contests.
+* Find a code for which an entry which is not yet added create an issue for it.
 * Make sure you are assigned for the issue before sending the PR.
-* Code added should follow the standard guidelines of that language, messy codes will not be accepted.
+* Code added should follow the standard guidelines of that language, untidy codes will not be accepted.
 * Send a PR.
 * Make sure that you only send the source code not the binaries and executables in PR.
 * While sending a PR make sure you follow one issue per PR rule.
-* Link to your solution on codechef is mandatory.
+* Link to your solution on CodeChef is mandatory.
 
 
 <a name="cs"></a>
@@ -16,9 +16,9 @@
 
 * Code submitted should be modular. 
 * Add the code in their respective directory only.
-* Filename should be same as that of the problem name.
+* Filename should be same as that of the problem code.
 * Currently we are accepting contributions in C, C++, Java and Python but other languages may be considered after a discussion.
-* Add meaningful comments to explain your code better.
+* Meaningful comments to explain your code better are welcomed.
 * No profanity.
 * We have defined [skeleton codes](#samples) for some popular languages below. Please follow them whenever possible.
 * Sample skeleton codes are for showing guidelines and indentations only.
@@ -41,6 +41,20 @@
 int main() {
 	int tc;
     scanf("%d",&tc);
+    while (tc--) {
+        /*
+        your code here;
+        */
+    }
+}
+```
+
+#### C++
+
+```c++
+int main() {
+    int tc;
+    cin>>tc;
     while (tc--) {
         /*
         your code here;
