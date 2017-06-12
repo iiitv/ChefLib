@@ -39,7 +39,7 @@
 
 ```c
 int main() {
-	int tc;
+    int tc;
     scanf("%d",&tc);
     while (tc--) {
         /*
