@@ -1,5 +1,6 @@
 # ChefLib
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/ChefLib/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+![](https://reposs.herokuapp.com/?path=aashutoshrathi/ChefLib)
 
 ### Library of Sweet Dishes (codes) by Chefs (Coders).
 
@@ -32,5 +33,4 @@ See [CONTRIBUTING.md](https://github.com/aashutoshrathi/ChefLib/blob/master/CONT
 
 ## Project Maintainers
 
-* [Monal Shadi](https://github.com/Monal5031)
-* [Aashutosh Rathi](https://github.com/aashutoshrathi)
+[![image](img/C2.png)](https://github.com/Monal5031) [![image](img/C1.png)](https://github.com/aashutoshrathi)
