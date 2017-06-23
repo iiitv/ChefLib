@@ -46,7 +46,7 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
 
 
 ## Contributing
-
+#### It is advised to first read how to contribute to this repository before creating an issue.
 See [CONTRIBUTING.md](https://github.com/aashutoshrathi/ChefLib/blob/master/CONTRIBUTING.md).
 
 ## Project Maintainers :
