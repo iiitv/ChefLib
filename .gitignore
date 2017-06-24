@@ -9,8 +9,6 @@
 # Libraries
 *.lib
 
-# Shared objects (inc. Windows DLLs)
-*.dll
 
 # Executables
 *.exe
@@ -18,7 +16,6 @@
 *.orig
 *.class
 *.pyc
+*.html
 
-# Debug files
-*.dSYM/
-*.su
+
