@@ -27,6 +27,15 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [DEC16](https://www.codechef.com/DEC16) | [CHEFAFD](https://www.codechef.com/DEC16/problems/CHEFAFD) | ★★★★ | | | | |
 | [DEC16](https://www.codechef.com/DEC16) | [SEAINCR](https://www.codechef.com/DEC16/problems/SEAINCR) | ★★★★ | | [![image](img/GH.png)](2016/DEC/DEC16/SEAINCR/SEAINCR.cpp) [![image](img/CC.png)](https://www.codechef.com/viewsolution/12223885) (30 pts) ![image](img/TLE.png) | | |
 | [DEC16](https://www.codechef.com/DEC16) | [BOUNCE](https://www.codechef.com/DEC16/problems/BOUNCE) | ★★★★★ | | | | |
+| [COOK77](https://www.codechef.com/COOK77) | [CHEFSETC](https://www.codechef.com/COOK77/problems/CHEFSETC) | ★★ | | | | |
+| [COOK77](https://www.codechef.com/COOK77) | [CHEFARRB](https://www.codechef.com/COOK77/problems/CHEFARRB) | ★★★ | | | | |
+| [COOK77](https://www.codechef.com/COOK77) | [CHEFINS](https://www.codechef.com/COOK77/problems/CHEFINS) | ★★★★ | | | | |
+| [COOK77](https://www.codechef.com/COOK77) | [CHEFNUMK](https://www.codechef.com/COOK77/problems/CHEFNUMK) | ★★★★★ | | | | |
+| [COOK77](https://www.codechef.com/COOK77) | [CHEFTRI4](https://www.codechef.com/COOK77/problems/CHEFTRI4) | ★★★★★ | | | | |
+| [LTIME43](https://www.codechef.com/LTIME43) | [SUPVIL](https://www.codechef.com/LTIME43/problems/SUPVIL) | ★★★ | | | | |
+| [LTIME43](https://www.codechef.com/LTIME43) | [FLYMODE](https://www.codechef.com/LTIME43/problems/FLYMODE) | ★★★★ | | | | |
+| [LTIME43](https://www.codechef.com/LTIME43) | [MSTQS](https://www.codechef.com/LTIME43/problems/MSTQS) | ★★★★★ | | | | |
+| [LTIME43](https://www.codechef.com/LTIME43) | [SBSWAP](https://www.codechef.com/LTIME43/problems/SBSWAP) | ★★★★★ | | | | |
 | [JAN17](https://www.codechef.com/JAN17) | [CATSDOGS](https://www.codechef.com/JAN17/problems/CATSDOGS) | ★★ | [![image](img/GH.png)](2017/JAN/JAN17/CATSDOGS/CATSDOGS.c) [![image](img/CC.png)](https://www.codechef.com/viewsolution/12414324) (100 pts) ![image](img/AC.png) | | | |
 | [JAN17](https://www.codechef.com/JAN17) | [RESERVOI](https://www.codechef.com/JAN17/problems/RESERVOI) | ★★ | | | | |
 | [JAN17](https://www.codechef.com/JAN17) | [CAPIMOVE](https://www.codechef.com/JAN17/problems/CAPIMOVE/) | ★★★ | [![image](img/GH.png)](2017/JAN/JAN17/CAPIMOVE/CAPIMOVE.c)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/12455090) (50 pts) ![image](img/RE.png) | | | |
@@ -37,6 +46,15 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [JAN17](https://www.codechef.com/JAN17) | [SEACIR](https://www.codechef.com/JAN17/problems/SEACIR) | ★★★★★ | | | | |
 | [JAN17](https://www.codechef.com/JAN17) | [SEABOX](https://www.codechef.com/JAN17/problems/SEABOX) | ★★★★★ | | | | |
 | [JAN17](https://www.codechef.com/JAN17) | [TUPLES](https://www.codechef.com/JAN17/problems/TUPLES) | ★★★★★ | | | | |
+| [COOK78](https://www.codechef.com/COOK78) | [LISDIGIT](https://www.codechef.com/COOK78/problems/LISDIGIT) | ★★★ | | | | |
+| [COOK78](https://www.codechef.com/COOK78) | [MTRNSFRM](https://www.codechef.com/COOK78/problems/MTRNSFRM) | ★★★★ | | | | |
+| [COOK78](https://www.codechef.com/COOK78) | [DIGITLIS](https://www.codechef.com/COOK78/problems/DIGITLIS) | ★★★★★ | | | | |
+| [COOK78](https://www.codechef.com/COOK78) | [XRGRD](https://www.codechef.com/COOK78/problems/XRGRD) | ★★★★★ | | | | |
+| [COOK78](https://www.codechef.com/COOK78) | [UNGAME](https://www.codechef.com/COOK78/problems/UNGAME) | ★★★★★ | | | | |
+| [LTIME44](https://www.codechef.com/LTIME44) | [NOTINCO](https://www.codechef.com/LTIME44/problems/NOTINCO) | ★★★ | | | | |
+| [LTIME44](https://www.codechef.com/LTIME44) | [SEALUP](https://www.codechef.com/LTIME44/problems/SEALUP) | ★★★★ | | | | |
+| [LTIME44](https://www.codechef.com/LTIME44) | [SEGMENTQ](https://www.codechef.com/LTIME44/problems/SEGMENTQ) | ★★★★★ | | | | |
+| [LTIME44](https://www.codechef.com/LTIME44) | [IMPROVE](https://www.codechef.com/LTIME44/problems/IMPROVE) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [CHEFAPAR](https://www.codechef.com/FEB17/problems/CHEFAPAR) | ★ | [![image](img/GH.png)](2017/FEB/FEB17/CHEFAPAR/CHEFAPAR.c)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/12705568) (100 pts) ![image](img/AC.png) | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [MAKETRI](https://www.codechef.com/FEB17/problems/MAKETRI) | ★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [GERMANDE](https://www.codechef.com/FEB17/problems/GERMANDE) | ★★ | | | | |
@@ -49,6 +67,15 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [FEB17](https://www.codechef.com/FEB17) | [DISTNUM3](https://www.codechef.com/FEB17/problems/DISTNUM3) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [SEAINVS](https://www.codechef.com/FEB17/problems/SEAINVS) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [JAKKU](https://www.codechef.com/FEB17/problems/JAKKU) | ★★★★★ | | | | |
+| [COOK79](https://www.codechef.com/COOK79) | [DWNLD](https://www.codechef.com/COOK79/problems/DWNLD) | ★★★ | | | | |
+| [COOK79](https://www.codechef.com/COOK79) | [CHAIRS](https://www.codechef.com/COOK79/problems/CHAIRS) | ★★★★ | | | | |
+| [COOK79](https://www.codechef.com/COOK79) | [COOKGAME](https://www.codechef.com/COOK79/problems/COOKGAME) | ★★★★ | | | | |
+| [COOK79](https://www.codechef.com/COOK79) | [ADDMULT](https://www.codechef.com/COOK79/problems/ADDMULT) | ★★★★★ | | | | |
+| [COOK79](https://www.codechef.com/COOK79) | [MIXFLVOR](https://www.codechef.com/COOK79/problems/MIXFLVOR) | ★★★★★ | | | | |
+| [LTIME45](https://www.codechef.com/LTIME45) | [COOMILK](https://www.codechef.com/LTIME45/problems/COOMILK) | ★★★ | | | | |
+| [LTIME45](https://www.codechef.com/LTIME45) | [QHOUSE](https://www.codechef.com/LTIME45/problems/QHOUSE) | ★★★★ | | | | |
+| [LTIME45](https://www.codechef.com/LTIME45) | [BRIBETR](https://www.codechef.com/LTIME45/problems/BRIBETR) | ★★★★★ | | | | |
+| [LTIME45](https://www.codechef.com/LTIME45) | [OVERPNT](https://www.codechef.com/LTIME45/problems/OVERPNT) | ★★★★★ | | | | |
 | [MARCH17](https://www.codechef.com/MARCH17) | [XENTASK](https://www.codechef.com/MARCH17/problems/XENTASK) | ★ | [![image](img/GH.png)](2017/MAR/MARCH17/XENTASK/XENTASK.c)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13033268) (100 pts) ![image](img/AC.png) | | | |
 | [MARCH17](https://www.codechef.com/MARCH17) | [EXTRAN](https://www.codechef.com/MARCH17/problems/EXTRAN) | ★★ | | [![image](img/GH.png)](2017/MAR/MARCH17/EXTRAN/EXTRAN.cpp)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13034093) (100 pts) ![image](img/AC.png) | | |
 | [MARCH17](https://www.codechef.com/MARCH17) | [BANDMATR](https://www.codechef.com/MARCH17/problems/BANDMATR) | ★★ | | | | |
@@ -59,6 +86,15 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [MARCH17](https://www.codechef.com/MARCH17) | [SUMDIS](https://www.codechef.com/MARCH17/problems/SUMDIS) | ★★★★★ | | | | |
 | [MARCH17](https://www.codechef.com/MARCH17) | [BEARTRAP](https://www.codechef.com/MARCH17/problems/BEARTRAP) | ★★★★★ | | | | |
 | [MARCH17](https://www.codechef.com/MARCH17) | [TUPLES2](https://www.codechef.com/MARCH17/problems/TUPLES2) | ★★★★★ | | | | |
+| [COOK80](https://www.codechef.com/COOK80) | [ROBOTG](https://www.codechef.com/COOK80/problems/ROBOTG) | ★★ | | | | |
+| [COOK80](https://www.codechef.com/COOK80) | [RAINBOW](https://www.codechef.com/COOK80/problems/RAINBOW) | ★★★ | | | | |
+| [COOK80](https://www.codechef.com/COOK80) | [CARDS777](https://www.codechef.com/COOK80/problems/CARDS777) | ★★★ | | | | |
+| [COOK80](https://www.codechef.com/COOK80) | [INCXOR](https://www.codechef.com/COOK80/problems/INCXOR) | ★★★★★ | | | | |
+| [COOK80](https://www.codechef.com/COOK80) | [MEETUP](https://www.codechef.com/COOK80/problems/MEETUP) | ★★★★★ | | | | |
+| [LTIME46](https://www.codechef.com/LTIME46) | [BRLADDER](https://www.codechef.com/LTIME46/problems/BRLADDER) | ★★ | | | | |
+| [LTIME46](https://www.codechef.com/LTIME46) | [SPECIES](https://www.codechef.com/LTIME46/problems/SPECIES) | ★★★ | | | | |
+| [LTIME46](https://www.codechef.com/LTIME46) | [HAIRCUT](https://www.codechef.com/LTIME46/problems/HAIRCUT) | ★★★★ | | | | |
+| [LTIME46](https://www.codechef.com/LTIME46) | [ALMROW](https://www.codechef.com/LTIME46/problems/ALMROW) | ★★★★★ | | | | |
 | [APRIL17](https://www.codechef.com/APRIL17) | [SIMDISH](https://www.codechef.com/APRIL17/problems/SIMDISH) | ★ | | [![image](img/GH.png)](2017/APR/APRIL17/SIMDISH/SIMDISH.cpp)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13218689) (100 pts) ![image](img/AC.png) | | |
 | [APRIL17](https://www.codechef.com/APRIL17) | [DISHLIFE](https://www.codechef.com/APRIL17/problems/DISHLIFE) | ★★ | | [![image](img/GH.png)](2017/APR/APRIL17/DISHLIFE/DISHLIFE.cpp)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13232008) (100 pts) ![image](img/AC.png) | | |
 | [APRIL17](https://www.codechef.com/APRIL17) | [ROWSOLD](https://www.codechef.com/APRIL17/problems/ROWSOLD) | ★★ | | [![image](img/GH.png)](2017/APR/APRIL17/ROWSOLD/ROWSOLD.cpp)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13284593) (100 pts) ![image](img/AC.png) | | |
@@ -69,6 +105,15 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [APRIL17](https://www.codechef.com/APRIL17) | [DGTCNT](https://www.codechef.com/APRIL17/problems/DGTCNT) | ★★★★ | | | | |
 | [APRIL17](https://www.codechef.com/APRIL17) | [SEABIL](https://www.codechef.com/APRIL17/problems/SEABIL) | ★★★★★ | | | | |
 | [APRIL17](https://www.codechef.com/APRIL17) | [HLD](https://www.codechef.com/APRIL17/problems/HLD) | ★★★★★ | | | | |
+| [COOK81](https://www.codechef.com/COOK81) | [CANDY123](https://www.codechef.com/COOK81/problems/CANDY123) | ★★ | | | | |
+| [COOK81](https://www.codechef.com/COOK81) | [ABREPEAT](https://www.codechef.com/COOK81/problems/ABREPEAT) | ★★★ | | | | |
+| [COOK81](https://www.codechef.com/COOK81) | [SHOPTRIP](https://www.codechef.com/COOK81/problems/SHOPTRIP) | ★★★★ | | | | |
+| [COOK81](https://www.codechef.com/COOK81) | [XORSUMS](https://www.codechef.com/COOK81/problems/XORSUMS) | ★★★★★ | | | | |
+| [COOK81](https://www.codechef.com/COOK81) | [BESTTRI](https://www.codechef.com/COOK81/problems/BESTTRI) | ★★★★★ | | | | |
+| [LTIME47](https://www.codechef.com/LTIME47) | [SEGM01](https://www.codechef.com/LTIME47/problems/SEGM01) | ★★ | | | | |
+| [LTIME47](https://www.codechef.com/LTIME47) | [BEARSEG](https://www.codechef.com/LTIME47/problems/BEARSEG) | ★★★★ | | | | |
+| [LTIME47](https://www.codechef.com/LTIME47) | [DIGVIRUS](https://www.codechef.com/LTIME47/problems/DIGVIRUS) | ★★★★★ | | | | |
+| [LTIME47](https://www.codechef.com/LTIME47) | [CLOSESTQ](https://www.codechef.com/LTIME47/problems/CLOSESTQ) | ★★★★★ | | | | |
 | [MAY17](https://www.codechef.com/MAY17) | [CHEFROUT](https://www.codechef.com/MAY17/problems/CHEFROUT) | ★ | | [![image](img/GH.png)](2017/MAY/MAY17/CHEFROUT/CHEFROUT.cpp)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13488483) (100 pts) ![image](img/AC.png) | | |
 | [MAY17](https://www.codechef.com/MAY17) | [UNICOURS](https://www.codechef.com/MAY17/problems/UNICOURS) | ★★ | | [![image](img/GH.png)](2017/MAY/MAY17/UNICOURS/UNICOURS.cpp)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13485038) (100 pts) ![image](img/AC.png) | | |
 | [MAY17](https://www.codechef.com/MAY17) | [MXMEDIAN](https://www.codechef.com/MAY17/problems/MXMEDIAN) | ★★ | | [![image](img/GH.png)](2017/MAY/MAY17/MXMEDIAN/MXMEDIAN.cpp)  [![image](img/CC.png)](https://www.codechef.com/viewsolution/13489057) (100 pts) ![image](img/AC.png) | | |
@@ -94,6 +139,16 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [JUNE17](https://www.codechef.com/JUNE17) | [CLONEME](https://www.codechef.com/JUNE17/problems/CLONEME) | ★★★★ | | | | |
 | [JUNE17](https://www.codechef.com/JUNE17) | [ES](https://www.codechef.com/JUNE17/problems/ES) | ★★★★★ | | | | |
 | [JUNE17](https://www.codechef.com/JUNE17) | [OAK](https://www.codechef.com/JUNE17/problems/OAK) | ★★★★★ | | | | |
+| [COOK83](https://www.codechef.com/COOK83) | [ADACRA](https://www.codechef.com/COOK83/problems/ADACRA) | ★★ | | | | |
+| [COOK83](https://www.codechef.com/COOK83) | [SNACKUP](https://www.codechef.com/COOK83/problems/SNACKUP) | ★★★ | | | | |
+| [COOK83](https://www.codechef.com/COOK83) | [CENTREE](https://www.codechef.com/COOK83/problems/CENTREE) | ★★★★ | | | | |
+| [COOK83](https://www.codechef.com/COOK83) | [KNICOV](https://www.codechef.com/COOK83/problems/KNICOV) | ★★★★★ | | | | |
+| [COOK83](https://www.codechef.com/COOK83) | [ADADET](https://www.codechef.com/COOK83/problems/ADADET) | ★★★★★ | | | | |
+| [LTIME49](https://www.codechef.com/LTIME49) | [TWONMS](https://www.codechef.com/LTIME49/problems/TWONMS) | ★★ | | | | |
+| [LTIME49](https://www.codechef.com/LTIME49) | [MAXSEGM](https://www.codechef.com/LTIME49/problems/MAXSEGM) | ★★★ | | | | |
+| [LTIME49](https://www.codechef.com/LTIME49) | [COMPCLUB](https://www.codechef.com/LTIME49/problems/COMPCLUB) | ★★★★★ | | | | |
+| [LTIME49](https://www.codechef.com/LTIME49) | [SHDWCMP](https://www.codechef.com/LTIME49/problems/SHDWCMP) | ★★★★★ | | | | |
+
 
 <a name="ecr"></a>
 ## Eligible Contributors Rating
