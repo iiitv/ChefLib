@@ -1,51 +1,160 @@
-import java.util.*;
-import java.lang.*;
+// Code written by Monal
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Scanner;
+import java.util.StringTokenizer;
+import java.io.DataInputStream;
+import java.util.Vector;
 import java.math.BigInteger;
-
-// Result = Partial Correct Answer (30 marks)
  
-class CHEFCODE {
+class ChefAndSubsequences1 {
+    static class Reader {
+        final private int BUFFER_SIZE = 1 << 16;
+        private DataInputStream din;
+        private byte[] buffer;
+        private int bufferPointer, bytesRead;
  
-  public static BigInteger checkSub(long arr[], int n, long k) {
-    // cout << opsize << endl;
-    BigInteger pro = BigInteger.ONE;
-    BigInteger count = BigInteger.ZERO;
-    for (long counter = 1; counter < (long)Math.pow(2,n); counter++) {
-        pro = BigInteger.ONE;
-        for (int j = 0; j < n; j++) {
-            if ((counter & (1<<j))>0)
-                pro = pro.multiply(BigInteger.valueOf(arr[j]));
+        public Reader() {
+            din = new DataInputStream(System.in);
+            buffer = new byte[BUFFER_SIZE];
+            bufferPointer = bytesRead = 0;
         }
-        //System.out.print(pro + " ");
-      if(BigInteger.valueOf(k).compareTo(pro) > 0) {
-        count = count.add(BigInteger.ONE);
-      }
-    }
-    return count.add(BigInteger.ONE);
-}
  
-  public static void main(String[] args) {
-    int n;
-    Scanner s = new Scanner(System.in);
-    n = s.nextInt();
-    long k;
-    k = s.nextLong();
-    long a[] = new long[n];
-    int p = 0;
-    int one = 0;
-    for (int i=0; i < n ; i++) {
-      long x = s.nextLong();
-      if(x<=k && x!=1) {
-        a[p] = x;
-        p++;
-      }
-      else if(x==1)
-        one++;
+        public Reader(String file_name) throws IOException {
+            din = new DataInputStream(new FileInputStream(file_name));
+            buffer = new byte[BUFFER_SIZE];
+            bufferPointer = bytesRead = 0;
+        }
+ 
+        public String readLine() throws IOException {
+            byte[] buf = new byte[64]; // line length
+            int cnt = 0, c;
+            while ((c = read()) != -1)
+            {
+                if (c == '\n')
+                    break;
+                buf[cnt++] = (byte) c;
+            }
+            return new String(buf, 0, cnt);
+        }
+ 
+        public int nextInt() throws IOException {
+            int ret = 0;
+            byte c = read();
+            while (c <= ' ')
+                c = read();
+            boolean neg = (c == '-');
+            if (neg)
+                c = read();
+            do {
+                ret = ret * 10 + c - '0';
+            }  while ((c = read()) >= '0' && c <= '9');
+ 
+            if (neg)
+                return -ret;
+            return ret;
+        }
+ 
+        public long nextLong() throws IOException {
+            long ret = 0;
+            byte c = read();
+            while (c <= ' ')
+                c = read();
+            boolean neg = (c == '-');
+            if (neg)
+                c = read();
+            do {
+                ret = ret * 10 + c - '0';
+            }
+            while ((c = read()) >= '0' && c <= '9');
+            if (neg)
+                return -ret;
+            return ret;
+        }
+ 
+        public double nextDouble() throws IOException {
+            double ret = 0, div = 1;
+            byte c = read();
+            while (c <= ' ')
+                c = read();
+            boolean neg = (c == '-');
+            if (neg)
+                c = read();
+ 
+            do {
+                ret = ret * 10 + c - '0';
+            }
+            while ((c = read()) >= '0' && c <= '9');
+ 
+            if (c == '.') {
+                while ((c = read()) >= '0' && c <= '9') {
+                    ret += (c - '0') / (div *= 10);
+                }
+            }
+ 
+            if (neg)
+                return -ret;
+            return ret;
+        }
+ 
+        private void fillBuffer() throws IOException {
+            bytesRead = din.read(buffer, bufferPointer = 0, BUFFER_SIZE);
+            if (bytesRead == -1)
+                buffer[0] = -1;
+        }
+ 
+        private byte read() throws IOException {
+            if (bufferPointer == bytesRead)
+                fillBuffer();
+            return buffer[bufferPointer++];
+        }
+ 
+        public void close() throws IOException {
+            if (din == null)
+                return;
+            din.close();
+        }
     }
-    BigInteger base = new BigInteger("2");
-    BigInteger power = base.pow(one);
-    power = power.multiply((checkSub(a, p, k)));
-    power = power.subtract(BigInteger.ONE);
-    System.out.print(power);
-  }
-} 
+    public static void main(String[] args) throws Exception {
+        Reader scan = new Reader();
+        int n;
+        long k;
+        n = scan.nextInt();
+        k = scan.nextLong();
+        BigInteger kb = BigInteger.valueOf(k);
+        long answer = 0;
+        Vector <BigInteger> products = new Vector <BigInteger> (); 
+        BigInteger[] arr = new BigInteger[n];
+        long temp;
+        long prev1 = 0;
+        for (int i = 0; i < n; ++i) {
+            temp = scan.nextLong();
+            arr[i] = BigInteger.valueOf(temp);
+            if (arr[i].compareTo(BigInteger.ONE) == 0) {
+                answer += prev1;
+                for (int j = 0; j < products.size(); ++j) {
+                    if (products.get(j).compareTo(kb) <= 0) {
+                        answer++;
+                        prev1++;
+                    }
+                }
+                answer++;
+                products.add(arr[i]);
+            }
+            else if (arr[i].compareTo(kb) <= 0) {
+                int size = products.size();
+                for (int j = 0; j < size; ++j) {
+                    BigInteger tmp = arr[i].multiply(products.get(j));
+                    if (tmp.compareTo(kb) <= 0) {
+                        products.add(tmp);
+                        answer++;
+                    }
+                }
+                answer++;
+                products.add(arr[i]);
+            }
+        }
+        System.out.println(answer);
+    }
+}
