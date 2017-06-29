@@ -32,7 +32,14 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
 `For eg: If you have 3★ rating on CodeChef, you can contribute on any problem having 3 or more stars in their respective ECR column.`
 
 ## Merging Policy
-
+* Everyone should follow one commit per PR.
+* The first Commit message should be like:
+    ```
+    Added {Problem name} in {Contest name with year} [Lang]
+    Fixes #{issue number}
+    ```
+  Rest of the commit messages should display what the change was done.
+* PR will only be merged if you have followed all the coding guidelines of that language.
 
 ## Contributing
 #### It is advised to first read how to contribute to this repository before creating an issue.
