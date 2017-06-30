@@ -1,4 +1,4 @@
-# cook your dish here
+# Code written by Divyesh
 import collections
 import itertools
 def main():
