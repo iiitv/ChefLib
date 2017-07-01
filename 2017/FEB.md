@@ -1,6 +1,6 @@
 ## Index Of Dishes from February 2017
 
-#### All problems are open to contributions, but prefer working and improving solutions marked with ![image](../img/WA.png) and ![image](../img/TLE.png). Simply [Create an Issue](https://github.com/aashutoshrathi/CodeChef/issues/new) and Send a PR when assigned.
+#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/aashutoshrathi/CodeChef/issues/new) and Send a PR when assigned.
 
 ##### Here in this Table ![image](../img/CC.png) links to solution on CodeChef and ![image](../img/GH.png) links to solution on this repository.
 
@@ -8,7 +8,7 @@
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 <a name="long"></a>
-| [FEB17](https://www.codechef.com/FEB17) | [CHEFAPAR](https://www.codechef.com/FEB17/problems/CHEFAPAR) | ★ | [![image](../img/GH.png)](FEB/FEB17/CHEFAPAR/CHEFAPAR.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12705568) (100 pts) ![image](../img/AC.png) | | | |
+| [FEB17](https://www.codechef.com/FEB17) | [CHEFAPAR](https://www.codechef.com/FEB17/problems/CHEFAPAR) | ★ | [![image](../img/GH.png)](FEB/FEB17/CHEFAPAR/CHEFAPAR.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12705568) (100 pts) [![image](../img/AC.png)](#) | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [MAKETRI](https://www.codechef.com/FEB17/problems/MAKETRI) | ★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [GERMANDE](https://www.codechef.com/FEB17/problems/GERMANDE) | ★★ | [![image](../img/GH.png)](FEB/FEB17/GERMANDE/GERMANDE.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12892020) (30 pts) ![image](../img/TLE.png) | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [MFREQ](https://www.codechef.com/FEB17/problems/MFREQ) | ★★ | [![image](../img/GH.png)](FEB/FEB17/MFREQ/MFREQ.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12840138) (40 pts) ![image](../img/WA.png) | | | |
@@ -21,7 +21,7 @@
 | [FEB17](https://www.codechef.com/FEB17) | [SEAINVS](https://www.codechef.com/FEB17/problems/SEAINVS) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [JAKKU](https://www.codechef.com/FEB17/problems/JAKKU) | ★★★★★ | | | | |
 <a name="cook"></a>
-| [COOK79](https://www.codechef.com/COOK79) | [DWNLD](https://www.codechef.com/COOK79/problems/DWNLD) | ★★★ | | [![image](../img/GH.png)](FEB/COOK79/DWNLD/DWNLD.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12895343) (100 pts) ![image](../img/AC.png) | | |
+| [COOK79](https://www.codechef.com/COOK79) | [DWNLD](https://www.codechef.com/COOK79/problems/DWNLD) | ★★★ | | [![image](../img/GH.png)](FEB/COOK79/DWNLD/DWNLD.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12895343) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK79](https://www.codechef.com/COOK79) | [CHAIRS](https://www.codechef.com/COOK79/problems/CHAIRS) | ★★★★ | | | | |
 | [COOK79](https://www.codechef.com/COOK79) | [COOKGAME](https://www.codechef.com/COOK79/problems/COOKGAME) | ★★★★ | | | | |
 | [COOK79](https://www.codechef.com/COOK79) | [ADDMULT](https://www.codechef.com/COOK79/problems/ADDMULT) | ★★★★★ | | | | |
