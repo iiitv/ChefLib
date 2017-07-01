@@ -1,3 +1,7 @@
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// ~~~~~~~© Aashutosh Rathi~~~~~~
+// ~~~~~~~~aashutosh001~~~~~~~~~~
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
