@@ -1,3 +1,8 @@
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// ~~~~~~~© Aashutosh Rathi~~~~~~
+// ~~~~~~~~aashutosh001~~~~~~~~~~
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Use memcpy while copying array :D
 #include <iostream>
 #include <vector>
 #include <algorithm>

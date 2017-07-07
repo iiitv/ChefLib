@@ -2,7 +2,7 @@
 
 #### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/aashutoshrathi/CodeChef/issues/new) and Send a PR when assigned.
 
-##### Here in this Table ![image](../img/CC.png) links to solution on CodeChef and ![image](../img/GH.png) links to solution on this repository.
+##### Here in this Table [![image](../img/CC.png)](#) links to solution on CodeChef and [![image](../img/GH.png)](#) links to solution on this repository.
 
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
@@ -10,7 +10,7 @@
 <a name="long"></a>
 | [FEB17](https://www.codechef.com/FEB17) | [CHEFAPAR](https://www.codechef.com/FEB17/problems/CHEFAPAR) | ★ | [![image](../img/GH.png)](FEB/FEB17/CHEFAPAR/CHEFAPAR.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12705568) (100 pts) [![image](../img/AC.png)](#) | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [MAKETRI](https://www.codechef.com/FEB17/problems/MAKETRI) | ★★ | | | | |
-| [FEB17](https://www.codechef.com/FEB17) | [GERMANDE](https://www.codechef.com/FEB17/problems/GERMANDE) | ★★ | | | | |
+| [FEB17](https://www.codechef.com/FEB17) | [GERMANDE](https://www.codechef.com/FEB17/problems/GERMANDE) | ★★ | [![image](../img/GH.png)](FEB/FEB17/GERMANDE/GERMANDE.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12892020) (30 pts) [![image](../img/TLE.png)](#) | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [MFREQ](https://www.codechef.com/FEB17/problems/MFREQ) | ★★ | [![image](../img/GH.png)](FEB/FEB17/MFREQ/MFREQ.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12840138) (40 pts) [![image](../img/WA.png)](#) | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [KBIGNUMB](https://www.codechef.com/FEB17/problems/KBIGNUMB) | ★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [INTERVAL](https://www.codechef.com/FEB17/problems/INTERVAL) | ★★★ | | | | |
