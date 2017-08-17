@@ -1,6 +1,6 @@
 # ChefLib
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/ChefLib/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-![](https://reposs.herokuapp.com/?path=aashutoshrathi/ChefLib)
+[![GitHub issues](https://img.shields.io/github/issues/aashutoshrathi/ChefLib.svg)](https://github.com/aashutoshrathi/ChefLib/issues)
 
 ### Library of Sweet Dishes (codes) by Chefs (Coders).
 
