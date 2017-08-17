@@ -38,8 +38,7 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
     Added {Problem name} in {Contest name with year} [Lang]
     Fixes #{issue number}
     ```
-  Rest of the commit messages should display what the change were done.
-* PR will only be merged if you have followed all the coding guidelines of that language.
+  Rest of commit messages should reflect the changes done in respective commit.
 
 ## Contributing
 #### It is advised to first read how to contribute to this repository before creating an issue.
