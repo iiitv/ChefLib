@@ -4,9 +4,11 @@
 
 ##### Here in this Table ![image](../img/CC.png) links to solution on CodeChef and ![image](../img/GH.png) links to solution on this repository.
 
+<a name="long"></a>
+#### Long
+
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-<a name="long"></a>
 | [DEC16](https://www.codechef.com/DEC16) | [ANKTRAIN](https://www.codechef.com/DEC16/problems/ANKTRAIN) | ★★ | [![image](../img/GH.png)](DEC/DEC16/ANKTRAIN/ANKTRAIN.c) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12160847) (100 pts) [![image](../img/AC.png)](#) | [![image](../img/GH.png)](DEC/DEC16/ANKTRAIN/ANKTRAIN.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12161855) (100 pts) [![image](../img/AC.png)](#) | | |
 | [DEC16](https://www.codechef.com/DEC16) | [KIRLAB](https://www.codechef.com/DEC16/problems/KIRLAB/) | ★★ | | [![image](../img/GH.png)](DEC/DEC16/KIRLAB/KIRLAB.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12262686) (30 pts) [![image](../img/TLE.png)](#) | | | |
 | [DEC16](https://www.codechef.com/DEC16) | [BASE](https://www.codechef.com/DEC16/problems/BASE) | ★★★ | [![image](../img/GH.png)](DEC/DEC16/BASE/BASE.c) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12245322) (40 pts) [![image](../img/TLE.png)](#) | [![image](../img/GH.png)](DEC/DEC16/BASE/BASE.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12187429) (16 pts) [![image](../img/TLE.png)](#) | | |
@@ -17,13 +19,23 @@
 | [DEC16](https://www.codechef.com/DEC16) | [CHEFAFD](https://www.codechef.com/DEC16/problems/CHEFAFD) | ★★★★ | | | | |
 | [DEC16](https://www.codechef.com/DEC16) | [SEAINCR](https://www.codechef.com/DEC16/problems/SEAINCR) | ★★★★ | | [![image](../img/GH.png)](DEC/DEC16/SEAINCR/SEAINCR.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12223885) (30 pts) [![image](../img/TLE.png)](#) | | |
 | [DEC16](https://www.codechef.com/DEC16) | [BOUNCE](https://www.codechef.com/DEC16/problems/BOUNCE) | ★★★★★ | | | | |
+
 <a name="cook"></a>
+#### Cook-Off
+
+| Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
+|:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK77](https://www.codechef.com/COOK77) | [CHEFSETC](https://www.codechef.com/COOK77/problems/CHEFSETC) | ★★ | | | | |
 | [COOK77](https://www.codechef.com/COOK77) | [CHEFARRB](https://www.codechef.com/COOK77/problems/CHEFARRB) | ★★★ | | | | |
 | [COOK77](https://www.codechef.com/COOK77) | [CHEFINS](https://www.codechef.com/COOK77/problems/CHEFINS) | ★★★★ | | | | |
 | [COOK77](https://www.codechef.com/COOK77) | [CHEFNUMK](https://www.codechef.com/COOK77/problems/CHEFNUMK) | ★★★★★ | | | | |
 | [COOK77](https://www.codechef.com/COOK77) | [CHEFTRI4](https://www.codechef.com/COOK77/problems/CHEFTRI4) | ★★★★★ | | | | |
+
 <a name="ltime"></a>
+#### Lunchtime
+
+| Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
+|:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [LTIME43](https://www.codechef.com/LTIME43) | [SUPVIL](https://www.codechef.com/LTIME43/problems/SUPVIL) | ★★★ | | | | |
 | [LTIME43](https://www.codechef.com/LTIME43) | [FLYMODE](https://www.codechef.com/LTIME43/problems/FLYMODE) | ★★★★ | | | | |
 | [LTIME43](https://www.codechef.com/LTIME43) | [MSTQS](https://www.codechef.com/LTIME43/problems/MSTQS) | ★★★★★ | | | | |

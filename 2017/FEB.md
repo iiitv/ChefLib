@@ -4,10 +4,11 @@
 
 ##### Here in this Table [![image](../img/CC.png)](#) links to solution on CodeChef and [![image](../img/GH.png)](#) links to solution on this repository.
 
+<a name="long"></a>
+#### Long
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-<a name="long"></a>
 | [FEB17](https://www.codechef.com/FEB17) | [CHEFAPAR](https://www.codechef.com/FEB17/problems/CHEFAPAR) | ★ | [![image](../img/GH.png)](FEB/FEB17/CHEFAPAR/CHEFAPAR.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12705568) (100 pts) [![image](../img/AC.png)](#) | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [MAKETRI](https://www.codechef.com/FEB17/problems/MAKETRI) | ★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [GERMANDE](https://www.codechef.com/FEB17/problems/GERMANDE) | ★★ | [![image](../img/GH.png)](FEB/FEB17/GERMANDE/GERMANDE.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12892020) (30 pts) [![image](../img/TLE.png)](#) | | | |
@@ -20,13 +21,23 @@
 | [FEB17](https://www.codechef.com/FEB17) | [DISTNUM3](https://www.codechef.com/FEB17/problems/DISTNUM3) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [SEAINVS](https://www.codechef.com/FEB17/problems/SEAINVS) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [JAKKU](https://www.codechef.com/FEB17/problems/JAKKU) | ★★★★★ | | | | |
+
 <a name="cook"></a>
+#### Cook-Off
+
+| Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
+|:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK79](https://www.codechef.com/COOK79) | [DWNLD](https://www.codechef.com/COOK79/problems/DWNLD) | ★★★ | | [![image](../img/GH.png)](FEB/COOK79/DWNLD/DWNLD.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12895343) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK79](https://www.codechef.com/COOK79) | [CHAIRS](https://www.codechef.com/COOK79/problems/CHAIRS) | ★★★★ | | | | |
 | [COOK79](https://www.codechef.com/COOK79) | [COOKGAME](https://www.codechef.com/COOK79/problems/COOKGAME) | ★★★★ | | | | |
 | [COOK79](https://www.codechef.com/COOK79) | [ADDMULT](https://www.codechef.com/COOK79/problems/ADDMULT) | ★★★★★ | | | | |
 | [COOK79](https://www.codechef.com/COOK79) | [MIXFLVOR](https://www.codechef.com/COOK79/problems/MIXFLVOR) | ★★★★★ | | | | |
+
 <a name="ltime"></a>
+#### Lunchtime
+
+| Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
+|:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [LTIME45](https://www.codechef.com/LTIME45) | [COOMILK](https://www.codechef.com/LTIME45/problems/COOMILK) | ★★★ | | | | |
 | [LTIME45](https://www.codechef.com/LTIME45) | [QHOUSE](https://www.codechef.com/LTIME45/problems/QHOUSE) | ★★★★ | | | | |
 | [LTIME45](https://www.codechef.com/LTIME45) | [BRIBETR](https://www.codechef.com/LTIME45/problems/BRIBETR) | ★★★★★ | | | | |
