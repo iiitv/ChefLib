@@ -1,12 +1,11 @@
 # ChefLib
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/ChefLib/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-[![GitHub issues](https://img.shields.io/github/issues/aashutoshrathi/ChefLib.svg)](https://github.com/aashutoshrathi/ChefLib/issues)
+[![GitHub issues](https://img.shields.io/github/issues/iiitv/ChefLib.svg)](https://github.com/iiitv/ChefLib/issues)
 
 ### Library of Sweet Dishes (codes) by Chefs (Coders).
 
 This repository is collection of CodeChef Contest Solutions. 
 This is for educational purpose. This may help you to understand problems in better way, and since not all solutions on this repository are AC ![image](img/AC.png) , you can suggest changes by opening an Issue and Send a PR.
-You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel](https://gitter.im/ChefLib/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel](https://gitter.im/iiitv/ChefLib)
 
 ## Index Of Dishes
 
