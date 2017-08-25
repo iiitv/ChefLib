@@ -1,4 +1,6 @@
 # ChefLib
+
+[![Join the chat at https://gitter.im/iiitv/ChefLib](https://badges.gitter.im/iiitv/ChefLib.svg)](https://gitter.im/iiitv/ChefLib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/ChefLib/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![GitHub issues](https://img.shields.io/github/issues/aashutoshrathi/ChefLib.svg)](https://github.com/aashutoshrathi/ChefLib/issues)
 
