@@ -4,10 +4,11 @@
 
 ##### Here in this Table ![image](../img/CC.png) links to solution on CodeChef and ![image](../img/GH.png) links to solution on this repository.
 
+<a name="long"></a>
+#### Long
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-<a name="long"></a>
 | [JAN17](https://www.codechef.com/JAN17) | [CATSDOGS](https://www.codechef.com/JAN17/problems/CATSDOGS) | ★★ | [![image](../img/GH.png)](JAN/JAN17/CATSDOGS/CATSDOGS.c) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12414324) (100 pts) [![image](../img/AC.png)](#) | [![image](../img/GH.png)](JAN/JAN17/CATSDOGS/CATSDOGS.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12414517) (100 pts) [![image](../img/AC.png)](#) | | |
 | [JAN17](https://www.codechef.com/JAN17) | [RESERVOI](https://www.codechef.com/JAN17/problems/RESERVOI) | ★★ | | [![image](../img/GH.png)](JAN/JAN17/RESERVOI/RESERVOI.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12473662) (100 pts) [![image](../img/AC.png)](#) | | |
 | [JAN17](https://www.codechef.com/JAN17) | [CAPIMOVE](https://www.codechef.com/JAN17/problems/CAPIMOVE/) | ★★★ | [![image](../img/GH.png)](JAN/JAN17/CAPIMOVE/CAPIMOVE.c)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12455090) (50 pts) ![image](../img/RE.png) | [![image](../img/GH.png)](JAN/JAN17/CAPIMOVE/CAPIMOVE.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12471815) (100 pts) [![image](../img/AC.png)](#) | [![image](../img/GH.png)](JAN/JAN17/CAPIMOVE/CAPIMOVE.java) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12471815) (50 pts) ![image](../img/RE.png) | |
@@ -18,13 +19,23 @@
 | [JAN17](https://www.codechef.com/JAN17) | [SEACIR](https://www.codechef.com/JAN17/problems/SEACIR) | ★★★★★ | | | | |
 | [JAN17](https://www.codechef.com/JAN17) | [SEABOX](https://www.codechef.com/JAN17/problems/SEABOX) | ★★★★★ | | | | |
 | [JAN17](https://www.codechef.com/JAN17) | [TUPLES](https://www.codechef.com/JAN17/problems/TUPLES) | ★★★★★ | | | | |
+
 <a name="cook"></a>
+#### Cook-Off
+
+| Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
+|:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK78](https://www.codechef.com/COOK78) | [LISDIGIT](https://www.codechef.com/COOK78/problems/LISDIGIT) | ★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [MTRNSFRM](https://www.codechef.com/COOK78/problems/MTRNSFRM) | ★★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [DIGITLIS](https://www.codechef.com/COOK78/problems/DIGITLIS) | ★★★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [XRGRD](https://www.codechef.com/COOK78/problems/XRGRD) | ★★★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [UNGAME](https://www.codechef.com/COOK78/problems/UNGAME) | ★★★★★ | | | | |
+
 <a name="ltime"></a>
+#### Lunchtime
+
+| Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
+|:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [LTIME44](https://www.codechef.com/LTIME44) | [NOTINCO](https://www.codechef.com/LTIME44/problems/NOTINCO) | ★★★ | | | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [SEALUP](https://www.codechef.com/LTIME44/problems/SEALUP) | ★★★★ | | | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [SEGMENTQ](https://www.codechef.com/LTIME44/problems/SEGMENTQ) | ★★★★★ | | | | |
