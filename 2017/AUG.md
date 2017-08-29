@@ -27,7 +27,7 @@
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK85](https://www.codechef.com/COOK85) | [ELEVSTRS](https://www.codechef.com/COOK85/problems/ELEVSTRS) | ★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [OBTTRNGL](https://www.codechef.com/COOK85/problems/OBTTRNGL) | ★★★ | | | | |
-| [COOK85](https://www.codechef.com/COOK85) | [MTRXMOD](https://www.codechef.com/COOK85/problems/MTRXMOD) | ★★★★s | | | | |
+| [COOK85](https://www.codechef.com/COOK85) | [MTRXMOD](https://www.codechef.com/COOK85/problems/MTRXMOD) | ★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [GAMSTICK](https://www.codechef.com/COOK85/problems/GAMSTICK) | ★★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [TRCNTCT](https://www.codechef.com/COOK85/problems/TRCNTCT) | ★★★★★ | | | | |
 
