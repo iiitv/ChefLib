@@ -48,6 +48,7 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
 #### It is advised to first read how to contribute to this repository before creating an issue.
 See [CONTRIBUTING.md](https://github.com/aashutoshrathi/ChefLib/blob/master/CONTRIBUTING.md).
 
-## Project Maintainers :
+## Project Maintainers
 
-[![Aashutosh Rathi](img/C1.png)](https://github.com/aashutoshrathi) [![Monal Shadi](img/C2.png)](https://github.com/Monal5031) 
+* [Aashutosh Rathi](https://github.com/aashutoshrathi) 
+* [Monal Shadi](https://github.com/Monal5031) 
