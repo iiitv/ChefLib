@@ -24,7 +24,7 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [April 2017](2017/APR.md) | [![image](img/AC.png)](2017/APR.md#long) | COOK81 [![image](img/AC.png)](2017/APR.md#cook) | LTIME47 [![image](img/AC.png)](2017/APR.md#ltime) |
 | [May 2017](2017/MAY.md) | [![image](img/AC.png)](2017/MAY.md#long) | COOK82 [![image](img/AC.png)](2017/MAY.md#cook) | `Unrated` |
 | [June 2017](2017/JUN.md) | [![image](img/AC.png)](2017/JUN.md#long) | COOK83 [![image](img/AC.png)](2017/JUN.md#cook) | LTIME49 [![image](img/AC.png)](2017/JUN.md#ltime) |
-| [July 2017](2017/JULY.md) | [![image](img/AC.png)](2017/JULY.md#long) | COOK84 [![image](img/AC.png)](2017/JULY.md#cook) | LTIME50 [![image](img/AC.png)](2017/JULY.md#ltime) |
+| [July 2017](2017/JULY.md) | [![image](img/AC.png)](2017/JULY.md#long) | `Unrated` | LTIME50 [![image](img/AC.png)](2017/JULY.md#ltime) |
 | [August 2017](2017/AUG.md) | [![image](img/AC.png)](2017/AUG.md#long) | COOK85 [![image](img/AC.png)](2017/AUG.md#cook) | LTIME51 [![image](img/AC.png)](2017/AUG.md#ltime) |
 
 

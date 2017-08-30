@@ -20,17 +20,6 @@
 | [JULY17](https://www.codechef.com/JULY17) | [MULDIG](https://www.codechef.com/JULY17/problems/MULDIG) | ★★★★★ | | | | |
 | [JULY17](https://www.codechef.com/JULY17) | [APRPS](https://www.codechef.com/JULY17/problems/APRPS) | ★★★★★ | | | | |
 
-<a name="cook"></a>
-#### Cook-Off
-
-| Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
-|:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [COOK84](https://www.codechef.com/COOK84) | [CHNGOR](https://www.codechef.com/COOK84/problems/CHNGOR) | ★★★ | | | | |
-| [COOK84](https://www.codechef.com/COOK84) | [CHNGFUNC](https://www.codechef.com/COOK84/problems/CHNGFUNC) | ★★★★ | | | | |
-| [COOK84](https://www.codechef.com/COOK84) | [CHNGSUM](https://www.codechef.com/COOK84/problems/CHNGSUM) | ★★★★★ | | | | |
-| [COOK84](https://www.codechef.com/COOK84) | [BIPARTRE](https://www.codechef.com/COOK84/problems/BIPARTRE) | ★★★★★ | | | | |
-| [COOK84](https://www.codechef.com/COOK84) | [CHNGSEQ](https://www.codechef.com/COOK84/problems/CHNGSEQ) | ★★★★★ | | | | |
-
 <a name="ltime"></a>
 #### Lunchtime
 
