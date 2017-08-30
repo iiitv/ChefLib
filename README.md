@@ -50,4 +50,5 @@ See [CONTRIBUTING.md](https://github.com/aashutoshrathi/ChefLib/blob/master/CONT
 
 ## Project Maintainers :
 
-[![Aashutosh Rathi](img/C1.png)](https://github.com/aashutoshrathi) [![Monal Shadi](img/C2.png)](https://github.com/Monal5031) 
+[Aashutosh Rathi](https://github.com/aashutoshrathi) 
+[Monal Shadi](https://github.com/Monal5031) 
