@@ -10,7 +10,7 @@
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [JULY17](https://www.codechef.com/JULY17) | [NITIKA](https://www.codechef.com/JULY17/problems/NITIKA) | ★★ | | | | |
-| [JULY17](https://www.codechef.com/JULY17) | [CHEFSIGN](https://www.codechef.com/JULY17/problems/CHEFSIGN) | ★★ | | | | |
+| [JULY17](https://www.codechef.com/JULY17) | [CHEFSIGN](https://www.codechef.com/JULY17/problems/CHEFSIGN) | ★★ | | | |  [![image](../img/GH.png)](JULY/JULY17/CHEFSIGN/CHEFSIGN.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14488195) (100 pts) [![image](../img/AC.png)](#) |
 | [JULY17](https://www.codechef.com/JULY17) | [CALC](https://www.codechef.com/JULY17/problems/CALC) | ★★★ | | | | |
 | [JULY17](https://www.codechef.com/JULY17) | [IPCTRAIN](https://www.codechef.com/JULY17/problems/IPCTRAIN) | ★★★ | | | | |
 | [JULY17](https://www.codechef.com/JULY17) | [EXPTREE](https://www.codechef.com/JULY17/problems/EXPTREE) | ★★★★ | | | | |
