@@ -9,5 +9,5 @@ Fixes #{ISSUE_NUMBER}
 - [ ] I have read and followed [Code Samples](https://github.com/aashutoshrathi/ChefLib/blob/master/CONTRIBUTING.md#samples).
 - [ ] I understand that pull request will be closed if I failed to update it even once in a week.
 
-<!-- To fill checkboxes, change [ ] to [x], 
+<!-- To fill checkboxes, change [ ] to [x] -->
 
