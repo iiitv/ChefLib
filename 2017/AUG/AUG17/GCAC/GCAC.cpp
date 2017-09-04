@@ -14,10 +14,12 @@ int main() {
 		cin >> n >> m;
 		char x[m+1];
 		long long int minSalary[n], offeredSalary[m], maxJobOffered[m], cost = 0, jobs = 0, companies = m;
-		for(i = 0; i < n; ++i)
+		for(i = 0; i < n; ++i) {
 			cin >> minSalary[i];
-		for(i = 0; i < m; ++i)
+		}
+		for(i = 0; i < m; ++i) {
 			cin >> offeredSalary[i] >> maxJobOffered[i];
+		}
 		for(i = 0; i < n; ++i) {
 			int max = -1;
 			vector <int> v;
@@ -27,7 +29,7 @@ int main() {
 					v.push_back(j);
 			j = v.size();
 			if(v.size() != 0) {
-			int maxsalary = -1;
+				int maxsalary = -1;
 				while(j--) {
 					if(minSalary[i] <= offeredSalary[v[j]] && maxJobOffered[v[j]] > 0 && offeredSalary[v[j]] > maxsalary) {
 						max = v[j];
