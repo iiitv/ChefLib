@@ -26,7 +26,7 @@
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [LTIME50](https://www.codechef.com/LTIME50) | [LOSTMAX](https://www.codechef.com/LTIME50/problems/LOSTMAX) | ★★★ | | | | |
-| [LTIME50](https://www.codechef.com/LTIME50) | [MAXOR](https://www.codechef.com/LTIME50/problems/MAXOR) | ★★★★ | | | | |
+| [LTIME50](https://www.codechef.com/LTIME50) | [MAXOR](https://www.codechef.com/LTIME50/problems/MAXOR) | ★★★★ | | [![image](../img/GH.png)](JULY/LTIME50/MAXOR/MAXOR.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14721836) (20 pts) [![image](../img/TLE.png)](#) | | |
 | [LTIME50](https://www.codechef.com/LTIME50) | [DIVSET](https://www.codechef.com/LTIME50/problems/DIVSET) | ★★★★★ | | | | |
 | [LTIME50](https://www.codechef.com/LTIME50) | [TRAVELAL](https://www.codechef.com/LTIME50/problems/TRAVELAL) | ★★★★★ | | | | |
 
