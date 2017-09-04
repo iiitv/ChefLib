@@ -1,3 +1,5 @@
+// Code by Piyush
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -17,6 +19,6 @@ int main() {
         if((sr2 * n / v1) <= (2 * n / v2)) cout << "Stairs\n";
         else cout << "Elevator\n";
     }
-    
+
     return 0;
 }
