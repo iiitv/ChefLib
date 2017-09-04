@@ -1,5 +1,7 @@
 #made by DipanshKhandelwal
 #this is a python3 file
+
+
 def main():
     N = int(input())
     for _ in range(N):
