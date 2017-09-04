@@ -9,7 +9,7 @@ def main():
         presentfreq = 0
         present = '='
         string = input()
-        for i in string :
+        for i in string:
             if i == '>' or i == '<':
                 if i == present :
                     presentfreq +=1
