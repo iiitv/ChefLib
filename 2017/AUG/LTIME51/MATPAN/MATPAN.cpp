@@ -1,3 +1,5 @@
+// Code by Piyush
+
 #include <bits/stdc++.h>
 #define endl "\n"
 using namespace std;
@@ -31,6 +33,6 @@ int main() {
 
         cout << total << endl;
     }
-    
+
     return 0;
 }
