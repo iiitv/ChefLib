@@ -36,7 +36,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [LTIME51](https://www.codechef.com/LTIME51) | [MATPAN](https://www.codechef.com/LTIME51/problems/MATPAN) | ★★ | | | | |
+| [LTIME51](https://www.codechef.com/LTIME51) | [MATPAN](https://www.codechef.com/LTIME51/problems/MATPAN) | ★★ | | [![image](../img/GH.png)](AUG/AUG17/LTIME51/MATPAN.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15119596) (100 pts) [![image](../img/AC.png)](#) | | |
 | [LTIME51](https://www.codechef.com/LTIME51) | [MATDYS](https://www.codechef.com/LTIME51/problems/MATDYS) | ★★★ | | | | |
 | [LTIME51](https://www.codechef.com/LTIME51) | [MATTEG](https://www.codechef.com/LTIME51/problems/MATTEG) | ★★★★★ | | | | |
 | [LTIME51](https://www.codechef.com/LTIME51) | [MATCUT](https://www.codechef.com/LTIME51/problems/MATCUT) | ★★★★★ | | | | |
