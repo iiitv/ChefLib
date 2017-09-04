@@ -8,7 +8,7 @@ int main() {
 	cin.tie(NULL);
 	int t;
 	cin >> t;
-	while( t-- ) {
+	while(t--) {
 		int n, m, i, j;
 		set <int> s;
 		cin >> n >> m;
