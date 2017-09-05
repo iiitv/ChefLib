@@ -38,7 +38,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [LTIME45](https://www.codechef.com/LTIME45) | [COOMILK](https://www.codechef.com/LTIME45/problems/COOMILK) | ★★★ | | | | |
+| [LTIME45](https://www.codechef.com/LTIME45) | [COOMILK](https://www.codechef.com/LTIME45/problems/COOMILK) | ★★★ | | [![image](../img/GH.png)](FEB/LTIME45/COOMILK/COOMILK.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15267617) (100 pts) [![image](../img/AC.png)](#) | | |
 | [LTIME45](https://www.codechef.com/LTIME45) | [QHOUSE](https://www.codechef.com/LTIME45/problems/QHOUSE) | ★★★★ | | | | |
 | [LTIME45](https://www.codechef.com/LTIME45) | [BRIBETR](https://www.codechef.com/LTIME45/problems/BRIBETR) | ★★★★★ | | | | |
 | [LTIME45](https://www.codechef.com/LTIME45) | [OVERPNT](https://www.codechef.com/LTIME45/problems/OVERPNT) | ★★★★★ | | | | |
