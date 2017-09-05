@@ -33,4 +33,4 @@ int main() {
 		cout << (n - a*b) * (a) << "\n";
 	}
 	return 0;
-} 
+}
