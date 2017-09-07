@@ -36,7 +36,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [LTIME44](https://www.codechef.com/LTIME44) | [NOTINCO](https://www.codechef.com/LTIME44/problems/NOTINCO) | ★★★ | | | | |
+| [LTIME44](https://www.codechef.com/LTIME44) | [NOTINCOM](https://www.codechef.com/LTIME44/problems/NOTINCOM) | ★★★ | | | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [SEALUP](https://www.codechef.com/LTIME44/problems/SEALUP) | ★★★★ | | | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [SEGMENTQ](https://www.codechef.com/LTIME44/problems/SEGMENTQ) | ★★★★★ | | | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [IMPROVE](https://www.codechef.com/LTIME44/problems/IMPROVE) | ★★★★★ | | | | |
