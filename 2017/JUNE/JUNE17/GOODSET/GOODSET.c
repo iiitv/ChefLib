@@ -1,5 +1,5 @@
-#
-include < stdio.h >
+/*This code is by Mohak Khare*/
+#include < stdio.h >
     int main() {
         long T;
         scanf("%ld", & T);
