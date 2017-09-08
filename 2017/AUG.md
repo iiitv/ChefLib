@@ -9,7 +9,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [AUG17](https://www.codechef.com/AUG17) | [RAINBOWA](https://www.codechef.com/AUG17/problems/RAINBOWA) | ★★ | | [![image](../img/GH.png)](AUG/AUG17/RAINBOWA/RAINBOWA.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14909134) (100 pts) [![image](../img/AC.png)](#) | | |
+| [AUG17](https://www.codechef.com/AUG17) | [RAINBOWA](https://www.codechef.com/AUG17/problems/RAINBOWA) | ★★ | | [![image](../img/GH.png)](AUG/AUG17/RAINBOWA/RAINBOWA.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14909134) (100 pts) [![image](../img/AC.png)](#) | [![image](../img/GH.png)](AUG/AUG17/RAINBOWA/RAINBOWA.java)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14859923) (100 pts) [![image](../img/AC.png)](#) | |
 | [AUG17](https://www.codechef.com/AUG17) | [CHEFMOVR](https://www.codechef.com/AUG17/problems/CHEFMOVR) | ★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [GCAC](https://www.codechef.com/AUG17/problems/GCAC) | ★★★ | | [![image](../img/GH.png)](AUG/AUG17/GCAC/GCAC.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14947059) (100 pts) [![image](../img/AC.png)](#) | | |
 | [AUG17](https://www.codechef.com/AUG17) | [PALINGAM](https://www.codechef.com/AUG17/problems/PALINGAM) | ★★★ | | | | |
@@ -36,7 +36,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [LTIME51](https://www.codechef.com/LTIME51) | [MATPAN](https://www.codechef.com/LTIME51/problems/MATPAN) | ★★ | | | | |
+| [LTIME51](https://www.codechef.com/LTIME51) | [MATPAN](https://www.codechef.com/LTIME51/problems/MATPAN) | ★★ | | [![image](../img/GH.png)](AUG/LTIME51/MATPAN/MATPAN.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15119803) (100 pts) [![image](../img/AC.png)](#) | | |
 | [LTIME51](https://www.codechef.com/LTIME51) | [MATDYS](https://www.codechef.com/LTIME51/problems/MATDYS) | ★★★ | | | | |
 | [LTIME51](https://www.codechef.com/LTIME51) | [MATTEG](https://www.codechef.com/LTIME51/problems/MATTEG) | ★★★★★ | | | | |
 | [LTIME51](https://www.codechef.com/LTIME51) | [MATCUT](https://www.codechef.com/LTIME51/problems/MATCUT) | ★★★★★ | | | | |
