@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
 
-    	std::ios::sync_with_stdio(false);
+    std::ios::sync_with_stdio(false);
 	int testCases;
 	cin >> testCases;
-     while (testCases--) {
+    while (testCases--) {
           int n;
           cin >> n;
           int a[n];
