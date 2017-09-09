@@ -1,3 +1,4 @@
+// this code is copyright of Mohak Khare
 #include < stdio.h >
     int main() {
 
