@@ -25,7 +25,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [COOK78](https://www.codechef.com/COOK78) | [LISDIGIT](https://www.codechef.com/COOK78/problems/LISDIGIT) | ★★★ | | | | |
+| [COOK78](https://www.codechef.com/COOK78) | [LISDIGIT](https://www.codechef.com/COOK78/problems/LISDIGIT) | ★★★ | | [![image](../img/GH.png)](JAN/COOK78/LISDIGIT/LISDIGIT.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14538726) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK78](https://www.codechef.com/COOK78) | [MTRNSFRM](https://www.codechef.com/COOK78/problems/MTRNSFRM) | ★★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [DIGITLIS](https://www.codechef.com/COOK78/problems/DIGITLIS) | ★★★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [XRGRD](https://www.codechef.com/COOK78/problems/XRGRD) | ★★★★★ | | | | |
