@@ -25,7 +25,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [COOK78](https://www.codechef.com/COOK78) | [LISDIGIT](https://www.codechef.com/COOK78/problems/LISDIGIT) | ★★★ | | | | |
+| [COOK78](https://www.codechef.com/COOK78) | [LISDIGIT](https://www.codechef.com/COOK78/problems/LISDIGIT) | ★★★ | | [![image](../img/GH.png)](JAN/COOK78/LISDIGIT/LISDIGIT.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14538726) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK78](https://www.codechef.com/COOK78) | [MTRNSFRM](https://www.codechef.com/COOK78/problems/MTRNSFRM) | ★★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [DIGITLIS](https://www.codechef.com/COOK78/problems/DIGITLIS) | ★★★★★ | | | | |
 | [COOK78](https://www.codechef.com/COOK78) | [XRGRD](https://www.codechef.com/COOK78/problems/XRGRD) | ★★★★★ | | | | |
@@ -36,7 +36,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [LTIME44](https://www.codechef.com/LTIME44) | [NOTINCOM](https://www.codechef.com/LTIME44/problems/NOTINCOM) | ★★★ | | | | |
+| [LTIME44](https://www.codechef.com/LTIME44) | [NOTINCOM](https://www.codechef.com/LTIME44/problems/NOTINCOM) | ★★★ | | [![image](../img/GH.png)](JAN/LTIME44/NOTINCOM/NOTINCOM.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15324794) (100 pts) [![image](../img/AC.png)](#) | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [SEALUP](https://www.codechef.com/LTIME44/problems/SEALUP) | ★★★★ | | | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [SEGMENTQ](https://www.codechef.com/LTIME44/problems/SEGMENTQ) | ★★★★★ | | | | |
 | [LTIME44](https://www.codechef.com/LTIME44) | [IMPROVE](https://www.codechef.com/LTIME44/problems/IMPROVE) | ★★★★★ | | | | |
