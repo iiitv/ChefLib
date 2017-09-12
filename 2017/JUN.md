@@ -25,7 +25,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [COOK83](https://www.codechef.com/COOK83) | [ADACRA](https://www.codechef.com/COOK83/problems/ADACRA) | ★★ | | | | [![image](../img/GH.png)](JUNE/COOK83/ADACRA/ADACRA.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14278836) (100 pts) [![image](../img/AC.png)](#) |
+| [COOK83](https://www.codechef.com/COOK83) | [ADACRA](https://www.codechef.com/COOK83/problems/ADACRA) | ★★ | | [![image](../img/GH.png)](JUNE/COOK83/ADACRA/ADACRA.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14279136) (100 pts) [![image](../img/AC.png)](#) | | [![image](../img/GH.png)](JUNE/COOK83/ADACRA/ADACRA.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14278836) (100 pts) [![image](../img/AC.png)](#) |
 | [COOK83](https://www.codechef.com/COOK83) | [SNACKUP](https://www.codechef.com/COOK83/problems/SNACKUP) | ★★★ | | [![image](../img/GH.png)](JUNE/COOK83/SNACKUP/SNACKUP.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14281072) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK83](https://www.codechef.com/COOK83) | [CENTREE](https://www.codechef.com/COOK83/problems/CENTREE) | ★★★★ | | | | |
 | [COOK83](https://www.codechef.com/COOK83) | [KNICOV](https://www.codechef.com/COOK83/problems/KNICOV) | ★★★★★ | | | | |
