@@ -40,7 +40,7 @@
 ```c
 int main() {
     int tc;
-    scanf("%d", &tc);
+    scanf("%d",&tc);
     while (tc--) {
         /*
         your code here;
@@ -54,7 +54,7 @@ int main() {
 ```c++
 int main() {
     int tc;
-    cin >> tc;
+    cin>>tc;
     while (tc--) {
         /*
         your code here;
