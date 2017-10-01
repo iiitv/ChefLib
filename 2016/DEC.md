@@ -1,4 +1,4 @@
-## Index Of Dishes From December 2016
+## Index Of Dishes from December 2016
 
 #### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/iiitv/ChefLib/issues/new) and Send a PR when assigned.
 
