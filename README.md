@@ -46,7 +46,7 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
   Rest of commit messages should reflect the changes done in respective commit.
 
 ## Contributing
-#### It is advised to first read how to contribute to this repository before creating an issue.
+#### It is advised to first read how to contribute to this repository before [creating an issue](https://github.com/iiitv/ChefLib/issues/new).
 See [CONTRIBUTING.md](https://github.com/iiitv/ChefLib/blob/master/CONTRIBUTING.md).
 
 ## Project Maintainers
