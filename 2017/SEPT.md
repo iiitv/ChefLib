@@ -9,16 +9,16 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [AUG17](https://www.codechef.com/SEPT17) | [CHEFSUM](https://www.codechef.com/SEPT17/problems/CHEFSUM) | ★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [MINPERM](https://www.codechef.com/SEPT17/problems/MINPERM) | ★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [CHEFPDIG](https://www.codechef.com/SEPT17/problems/CHEFPDIG) | ★★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [SEACO](https://www.codechef.com/SEPT17/problems/SEACO) | ★★★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [WEASELTX](https://www.codechef.com/SEPT17/problems/WEASELTX) | ★★★★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [SEAFUNC](https://www.codechef.com/SEPT17/problems/SEAFUNC) | ★★★★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [SUMCUBE](https://www.codechef.com/SEPT17/problems/SUMCUBE) | ★★★★★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [WEASELSC](https://www.codechef.com/SEPT17/problems/WEASELSC) | ★★★★★★ | | | | |
-| [AUG17](https://www.codechef.com/SEPT17) | [QGRID](https://www.codechef.com/SEPT17/problems/QGRID) | ★★★★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [CHEFSUM](https://www.codechef.com/SEPT17/problems/CHEFSUM) | ★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [MINPERM](https://www.codechef.com/SEPT17/problems/MINPERM) | ★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [CHEFPDIG](https://www.codechef.com/SEPT17/problems/CHEFPDIG) | ★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [SEACO](https://www.codechef.com/SEPT17/problems/SEACO) | ★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [WEASELTX](https://www.codechef.com/SEPT17/problems/WEASELTX) | ★★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [SEAFUNC](https://www.codechef.com/SEPT17/problems/SEAFUNC) | ★★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [SUMCUBE](https://www.codechef.com/SEPT17/problems/SUMCUBE) | ★★★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [WEASELSC](https://www.codechef.com/SEPT17/problems/WEASELSC) | ★★★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [QGRID](https://www.codechef.com/SEPT17/problems/QGRID) | ★★★★★★★ | | | | |
 
 <a name="cook"></a>
 #### Cook-Off
@@ -36,10 +36,10 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [LTIME51](https://www.codechef.com/LTIME51) | [C00K0FF](https://www.codechef.com/LTIME51/problems/C00K0FF) | ★★★ | | | | |
-| [LTIME51](https://www.codechef.com/LTIME51) | [CHEFDICE](https://www.codechef.com/LTIME51/problems/CHEFDICE) | ★★★★ | | | | |
-| [LTIME51](https://www.codechef.com/LTIME51) | [CHEFPCHF](https://www.codechef.com/LTIME51/problems/CHEFPCHF) | ★★★★★ | | | | |
-| [LTIME51](https://www.codechef.com/LTIME51) | [CHEFTRAF](https://www.codechef.com/LTIME51/problems/CHEFTRAF) | ★★★★★★ | | | | |
+| [LTIME52](https://www.codechef.com/LTIME52) | [C00K0FF](https://www.codechef.com/LTIME52/problems/C00K0FF) | ★★★ | | | | |
+| [LTIME52](https://www.codechef.com/LTIME52) | [CHEFDICE](https://www.codechef.com/LTIME52/problems/CHEFDICE) | ★★★★ | | | | |
+| [LTIME52](https://www.codechef.com/LTIME52) | [CHEFPCHF](https://www.codechef.com/LTIME52/problems/CHEFPCHF) | ★★★★★ | | | | |
+| [LTIME52](https://www.codechef.com/LTIME52) | [CHEFTRAF](https://www.codechef.com/LTIME52/problems/CHEFTRAF) | ★★★★★★ | | | | |
 
 
 <a name="ecr"></a>
