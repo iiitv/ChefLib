@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include < bits/stdc++.h >
 
 //____By:sirjan13____
 
@@ -12,10 +12,10 @@
 #define vll vector<long long int>
 #define pb push_back
 #define pi pair<int,int>
-#define si set<int>
-#define sll set<ll>
-#define maxheap priority_queue<int>
-#define minheap priority_queue<int,vector<int>,greater<int>>
+#define si set< int >
+#define sll set< ll >
+#define maxheap priority_queue< int >
+#define minheap priority_queue< int,vector< int >,greater< int > >
 #define mp make_pair
 #define fast_io() cin.sync_with_stdio(false);cout.sync_with_stdio(false);
 #define long_zero 0ll
@@ -34,17 +34,17 @@ bool v[100002];
 int arr[100002];
 bool fff=false;
 
-vector<cell> a[100002];
+vector< cell > a[100002];
 
-void f(int p,int current){
-    v[current]=true;
+void f( int p,int current ){
+    v[ current ]=true;
     for(int i=0;i<a[current].size();i++){
-        if(!v[a[current][i].nind]){
+        if ( !v[a[current][i].nind] ) {
             arr[a[current][i].nind]=a[current][i].x+arr[current];
             f(current,a[current][i].nind);
         }
-        else if(p!=a[current][i].nind){
-            if((arr[current]+a[current][i].x-arr[a[current][i].nind])&1){
+        else if ( p!=a[current][i].nind ){
+            if( ( arr[ current ] + a[ current ][ i ].x - arr[a[current][i].nind]) & 1 ) {
                 fff = true;
                 return;
             }
@@ -52,21 +52,21 @@ void f(int p,int current){
     }
 }
 void freespace(int n){
-    for(int i=1;i<=n;i++) a[i].clear();
+    for(int i = 1 ;i <= n; i++) a[i].clear();
 }
 int main() {
     fast_io()
     int t;
-    cin>>t;
+    cin >> t;
  
-    while(t--){
-        memset(v,false,sizeof(v));
+    while ( t-- ){
+        memset (v, false, sizeof(v));
         int n,m,r,c,va;
-        cin>>n>>m;
+        cin >> n >>m;
         fff=false;
         memset(arr,0,sizeof(arr));
         for(int i=0;i<m;i++){
-            cin>>r>>c>>va;
+            cin >> r >> c >> va;
             cell nwc;
             nwc.nind=c;
             nwc.x=va;
@@ -86,9 +86,9 @@ int main() {
         }
         freespace(n);
         if(fff)
-            cout<<"no";
+            cout << "no";
         else
-            cout<<"yes";
+            cout << "yes";
         cout<<endl;
 	}
 	return 0;
