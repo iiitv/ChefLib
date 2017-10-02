@@ -24,7 +24,7 @@ using namespace std;
 ll countt[1001][block];
 ll last[1001][block];
 ll Parent[1001][block];
- 
+
 ll n,q;
 ll arr[MAX];
 ll lazy[1005];
@@ -58,13 +58,9 @@ int query(int index, int jump){
 		int currJump=0;
 		int lastMax=index;
 		ll lastValue=arr[index]+lazy[index/100];
- 
 		for(int i=index+1; i<=last[currBlock][index%100]; i++){
- 
 			if(currJump==jump) return lastMax;
- 
 			ll currVal=arr[i]+lazy[i/100];
- 
 			if(currVal > lastValue){
 				currJump++;
 				lastValue=currVal;
@@ -82,9 +78,7 @@ int query(int index, int jump){
 		int x=jump-maxxJ-1;
 		return query(Parent[currBlock][finalInd%100], x);
 	}
- 
 }
- 
 void blockUpdate2(int blockNum){
 	if(blockNum<0 || blockNum==((n-1)/100)) return;
 	int j=(blockNum+1)*100;
@@ -107,7 +101,6 @@ void blockUpdate2(int blockNum){
 		i--;
 	}
 }
- 
 void update(int left, int right, ll value){
 	if((left/100)!=(right/100)){
 		for(int i=(left/100)+1; i<(right/100); i++) lazy[i]+=value;
@@ -126,13 +119,11 @@ void update(int left, int right, ll value){
 		blockUpdate2(right/100);
 		blockUpdate2((right/100)-1);
 	}
- 
 }
 void build(){
 	for(int i=0; i<=((n-1)/100); i++) blockUpdate(i);
 	for(int i=0; i<=((n-1)/100); i++) blockUpdate2(i);
 }
- 
 int main(){
 	sll(n);
 	sll(q);
@@ -159,8 +150,5 @@ int main(){
 			update(a, b, c);
 		}
 	}
- 
- 
- 
 	return 0;
-} 
+}
