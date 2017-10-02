@@ -32,7 +32,7 @@ ll A[MAX];
 ll C;
 
 ll add(ll &x, ll y){
-  x=(x + y) % mod;
+  x = (x + y) % mod;
   if(x < 0) x += mod;
   return x;
 }
@@ -47,14 +47,14 @@ int main()
       mem(SUB, 0);
       mem(A, 0);
       C = 1;
-      rep(i,0,m){
+      rep(i, 0, m){
         si(arr[i].f);
         sll(arr[i].s.f);
         sll(arr[i].s.s);
-        arr[i].s.f--;
-        arr[i].s.s--;
+        arr[i].s.f -= 1;
+        arr[i].s.s -= 1;
       }
-      for(int i=m-1;i>=0;i--){ 
+      for(int i = m-1; i >= 0; i--){ 
           add(C, ADD[i]);
           add(C, -1LL*SUB[i]);
           ADD[i] = C;
@@ -70,10 +70,10 @@ int main()
                add(A[arr[i].s.f],ADD[i]);
            }
       C = 0;
-      rep(i,0,n){
-        add(C,A[i]);
-        add(C,-1*SUB[i]);
-        A[i]=C;
+      rep(i, 0, n){
+        add(C, A[i]);
+        add(C, -1*SUB[i]);
+        A[i] = C;
       }
       rep(i,0,n) plls(A[i]);
       newLine;
