@@ -9,7 +9,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [SEPT17](https://www.codechef.com/SEPT17) | [CHEFSUM](https://www.codechef.com/SEPT17/problems/CHEFSUM) | ★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [CHEFSUM](https://www.codechef.com/SEPT17/problems/CHEFSUM) | ★★ | | | | [![image](../img/GH.png)](SEPT/SEPT17/CHEFSUM/CHEFSUM.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15235242) (100 pts) [![image](../img/AC.png)](#) |
 | [SEPT17](https://www.codechef.com/SEPT17) | [MINPERM](https://www.codechef.com/SEPT17/problems/MINPERM) | ★★ | | | | [![image](../img/GH.png)](SEPT/SEPT17/MINPERM/MINPERM.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15236776) (100 pts) [![image](../img/AC.png)](#) |
 | [SEPT17](https://www.codechef.com/SEPT17) | [CHEFPDIG](https://www.codechef.com/SEPT17/problems/CHEFPDIG) | ★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SEACO](https://www.codechef.com/SEPT17/problems/SEACO) | ★★★★ | | | | |
