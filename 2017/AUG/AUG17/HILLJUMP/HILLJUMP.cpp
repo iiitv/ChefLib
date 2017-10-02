@@ -1,3 +1,4 @@
+//Code Copyright: Manish Kumar, E&C 4th Year, IIT Roorkee
 #include <iostream>
 #include <cstring>
 #include <cmath>
