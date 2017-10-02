@@ -14,7 +14,7 @@
 | [AUG17](https://www.codechef.com/AUG17) | [GCAC](https://www.codechef.com/AUG17/problems/GCAC) | ★★★ | | [![image](../img/GH.png)](AUG/AUG17/GCAC/GCAC.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14947059) (100 pts) [![image](../img/AC.png)](#) | | |
 | [AUG17](https://www.codechef.com/AUG17) | [PALINGAM](https://www.codechef.com/AUG17/problems/PALINGAM) | ★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [CHEFFA](https://www.codechef.com/AUG17/problems/CHEFFA) | ★★★★ | | | | |
-| [AUG17](https://www.codechef.com/AUG17) | [STRINGRA](https://www.codechef.com/AUG17/problems/STRINGRA) | ★★★★ | | |[![image](../img/CC.png)](https://www.codechef.com/viewsolution/14941341) [![image](../img/GH.png)](https://github.com/srshashi/ChefLib/blob/master/2017/AUG/AUG17/STRINGRA/STRINGRA.cpp) | |
+| [AUG17](https://www.codechef.com/AUG17) | [STRINGRA](https://www.codechef.com/AUG17/problems/STRINGRA) | ★★★★ | |[![image](../img/GH.png)](https://github.com/srshashi/ChefLib/blob/master/2017/AUG/AUG17/STRINGRA/STRINGRA.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14941341)(100 pts) [![image](../img/AC.png)](#)| | |
 | [AUG17](https://www.codechef.com/AUG17) | [MATDW](https://www.codechef.com/AUG17/problems/MATDW) | ★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [HILLJUMP](https://www.codechef.com/AUG17/problems/HILLJUMP) | ★★★★★ | | [![image](../img/GH.png)](AUG/AUG17/HILLJUMP/HILLJUMP.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14996982) (100 pts) [![image](../img/AC.png)](#) | | |
 | [AUG17](https://www.codechef.com/AUG17) | [WALKBT](https://www.codechef.com/AUG17/problems/WALKBT) | ★★★★★ | | | | |
