@@ -14,8 +14,8 @@ int main() {
 		int n = s.size();
 		bool isbreak = false;
 		for (int i = 0; i < n; ++i) {
-			a[(int) s[i] - 97]++;
-			if(a[(int) s[i] - 97 ] == 2) {
+			a[(int)s[i] - 97]++;
+			if(a[(int)s[i] - 97 ] == 2) {
 				cout << "yes\n";
 				isbreak = true;
 				break;
