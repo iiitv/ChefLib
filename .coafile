@@ -1,13 +1,7 @@
 # For local fixing
 # coala --apply-patches -n
 
-# python
-[Python Spacing]
-files = **/*.py
-bears = SpaceConsistencyBear
-use_spaces = True
-
-# python lint
+# Python lint
 [pep8]
 files = **/*.py
 bears = PEP8Bear
