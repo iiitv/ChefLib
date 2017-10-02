@@ -26,7 +26,7 @@
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK86](https://www.codechef.com/COOK86) | [LIKECS01](https://www.codechef.com/COOK86/problems/LIKECS01) | ★★ | | | | |
-| [COOK86](https://www.codechef.com/COOK86) | [LIKECS02](https://www.codechef.com/COOK86/problems/LIKECS02) | ★★★ | |[![image](../img/CC.png)](https://www.codechef.com/viewsolution/15449918) [![image](../img/GH.png)](SEPT/COOK86/LIKECS02/LIKECS02.cpp)(100 pts) [![image](../img/AC.png)](#)| | |
+| [COOK86](https://www.codechef.com/COOK86) | [LIKECS02](https://www.codechef.com/COOK86/problems/LIKECS02) | ★★★ | |  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15449918)  [![image](../img/GH.png)](SEPT/COOK86/LIKECS02/LIKECS02.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
 | [COOK86](https://www.codechef.com/COOK86) | [LIKECS03](https://www.codechef.com/COOK86/problems/LIKECS03) | ★★★★ | | | | |
 | [COOK86](https://www.codechef.com/COOK86) | [LIKECS04](https://www.codechef.com/COOK86/problems/LIKECS04) | ★★★★★ | | | | |
 | [COOK86](https://www.codechef.com/COOK86) | [LIKECS05](https://www.codechef.com/COOK86/problems/LIKECS05) | ★★★★★★ | | | | |
