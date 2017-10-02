@@ -1,50 +1,72 @@
-//Made by vanguard7
 
-#include <bits/stdc++.h>
+#include<iostream>
+#include<string>
 using namespace std;
-
-int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(NULL);
-	int t;
-	cin >> t;
-	while(t--) {
-		int n, m, i, j;
-		set <int> s;
-		cin >> n >> m;
-		char x[m+1];
-		long long int minSalary[n], offeredSalary[m], maxJobOffered[m], cost = 0, jobs = 0, companies = m;
-		for(i = 0; i < n; ++i) {
-			cin >> minSalary[i];
-		}
-		for(i = 0; i < m; ++i) {
-			cin >> offeredSalary[i] >> maxJobOffered[i];
-		}
-		for(i = 0; i < n; ++i) {
-			int max = -1;
-			vector <int> v;
-			cin >> x;
-			for(j = 0; j < m; ++j)
-				if(x[j] == '1')
-					v.push_back(j);
-			j = v.size();
-			if(v.size() != 0) {
-				int maxsalary = -1;
-				while(j--) {
-					if(minSalary[i] <= offeredSalary[v[j]] && maxJobOffered[v[j]] > 0 && offeredSalary[v[j]] > maxsalary) {
-						max = v[j];
-						maxsalary = offeredSalary[v[j]];
-					}	
-				}
-			}	
-			if(max! =- 1) {
-				cost += offeredSalary[max];
-				maxJobOffered[max]--;
-				jobs++;
-				s.insert(max);
-			}
-		}	
-	cout << jobs << " " << cost << " " << companies-s.size() << endl;
-	}
-	return 0;
+int main()
+{
+	 ios_base::sync_with_stdio(false);
+	 cin.tie(NULL);
+	 
+	 long int test,n,m,minsalary[1001]={0},offeredsal[1001][2]={0},i,j,k,candjob=0,totsal=0,sal=0,indi=0,fcomp=0;
+	 string str;
+	 
+	 cin>>test;
+	 
+	 for(test=test;test > 0;test--)
+	 {
+	 	int arr[1001]={0};
+	 	cin>>n>>m;
+	 	
+	 	for(i=0;i<n;i++)
+	 		cin>>minsalary[i];
+	 
+	 	for(i=0;i<m;i++)
+	 		cin>>offeredsal[i][0]>>offeredsal[i][1];
+	 	
+	 	cin.ignore();
+	 		
+	 	for(j=0;j<n;j++)
+	 	{
+	 	
+	 		cin>>str;
+	 		
+	 		
+	 		for(i=0;i<m;i++)
+	 		{
+	 			if(str[i] == '1')
+	 			{
+	 				if(offeredsal[i][1])
+	 				{
+	 					if(offeredsal[i][0] >= minsalary[j])
+	 					{
+							if(sal < offeredsal[i][0]){
+							sal = offeredsal[i][0];	indi = i;}
+	 					}
+	 				}
+	 			}
+	 		}
+	 		
+	 		if(sal)
+	 		{
+	 			candjob++;	totsal = totsal + offeredsal[indi][0];	offeredsal[indi][1]--;	arr[indi] = 1;
+	 		}
+	 		sal = 0;
+	 		
+	 	}
+	 	
+	 		for(i=0;i<m;i++)
+	 		{
+	 			if(arr[i] == 0)
+	 				fcomp++;
+	 		}
+	 		
+	 		
+	 		cout<<candjob<<" "<<totsal<<" "<<fcomp<<"\n";
+	 		
+	 		fcomp =	totsal = candjob =  0;	
+ 
+	 }
+	 
 }
+
+//by bevish
