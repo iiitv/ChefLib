@@ -9,11 +9,11 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [SEPT17](https://www.codechef.com/SEPT17) | [CHEFSUM](https://www.codechef.com/SEPT17/problems/CHEFSUM) | ★★ | | | | |
-| [SEPT17](https://www.codechef.com/SEPT17) | [MINPERM](https://www.codechef.com/SEPT17/problems/MINPERM) | ★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [CHEFSUM](https://www.codechef.com/SEPT17/problems/CHEFSUM) | ★★ | | | | [![image](../img/GH.png)](SEPT/SEPT17/CHEFSUM/CHEFSUM.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15235242) (100 pts) [![image](../img/AC.png)](#) |
+| [SEPT17](https://www.codechef.com/SEPT17) | [MINPERM](https://www.codechef.com/SEPT17/problems/MINPERM) | ★★ | | | | [![image](../img/GH.png)](SEPT/SEPT17/MINPERM/MINPERM.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15236776) (100 pts) [![image](../img/AC.png)](#) |
 | [SEPT17](https://www.codechef.com/SEPT17) | [CHEFPDIG](https://www.codechef.com/SEPT17/problems/CHEFPDIG) | ★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SEACO](https://www.codechef.com/SEPT17/problems/SEACO) | ★★★★ | | | | |
-| [SEPT17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | | [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15243260)  [![image](../img/GH.png)](SEPT/SEPT17/FILLMTR/FILLMTR.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [WEASELTX](https://www.codechef.com/SEPT17/problems/WEASELTX) | ★★★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SEAFUNC](https://www.codechef.com/SEPT17/problems/SEAFUNC) | ★★★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SUMCUBE](https://www.codechef.com/SEPT17/problems/SUMCUBE) | ★★★★★★ | | | | |
@@ -25,9 +25,9 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [COOK86](https://www.codechef.com/COOK86) | [LIKECS01](https://www.codechef.com/COOK86/problems/LIKECS01) | ★★ | | | | |
+| [COOK86](https://www.codechef.com/COOK86) | [LIKECS01](https://www.codechef.com/COOK86/problems/LIKECS01) | ★★ | | [![image](../img/GH.png)](SEPT/COOK86/LIKECS01/LIKECS01.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15515422) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK86](https://www.codechef.com/COOK86) | [LIKECS02](https://www.codechef.com/COOK86/problems/LIKECS02) | ★★★ | | | | |
-| [COOK86](https://www.codechef.com/COOK86) | [LIKECS03](https://www.codechef.com/COOK86/problems/LIKECS03) | ★★★★ | | | | |
+| [COOK86](https://www.codechef.com/COOK86) | [LIKECS03](https://www.codechef.com/COOK86/problems/LIKECS03) | ★★★★ | | [![image](../img/GH.png)](SEPT/COOK86/LIKECS03/LIKECS03.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15452266) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK86](https://www.codechef.com/COOK86) | [LIKECS04](https://www.codechef.com/COOK86/problems/LIKECS04) | ★★★★★ | | | | |
 | [COOK86](https://www.codechef.com/COOK86) | [LIKECS05](https://www.codechef.com/COOK86/problems/LIKECS05) | ★★★★★★ | | | | |
 
