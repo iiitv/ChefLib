@@ -13,7 +13,15 @@
 | [SEPT17](https://www.codechef.com/SEPT17) | [MINPERM](https://www.codechef.com/SEPT17/problems/MINPERM) | ★★ | | | | [![image](../img/GH.png)](SEPT/SEPT17/MINPERM/MINPERM.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15236776) (100 pts) [![image](../img/AC.png)](#) |
 | [SEPT17](https://www.codechef.com/SEPT17) | [CHEFPDIG](https://www.codechef.com/SEPT17/problems/CHEFPDIG) | ★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SEACO](https://www.codechef.com/SEPT17/problems/SEACO) | ★★★★ | | | | |
+<<<<<<< HEAD
+<<<<<<< ea4bb12c1d85ba516462c4a0cd57c870766c83af
 | [SEPT17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | | [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15243260)  [![image](../img/GH.png)](SEPT/SEPT17/FILLMTR/FILLMTR.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
+=======
+| [SEPT17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | |[![image](../img/CC.png)](https://www.codechef.com/viewsolution/15243260)  [![image](../img/GH.png)](SEPT/SEPT17/FILLMTR/FILLMTR.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
+>>>>>>> FILLMTR (SEPT17) [C++]
+=======
+| [SEPT17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | | [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15243260)  [![image](../img/GH.png)](SEPT/SEPT17/FILLMTR/FILLMTR.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
+>>>>>>> cef1da24a2c070bbad8797c31bd62819fed719a5
 | [SEPT17](https://www.codechef.com/SEPT17) | [WEASELTX](https://www.codechef.com/SEPT17/problems/WEASELTX) | ★★★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SEAFUNC](https://www.codechef.com/SEPT17/problems/SEAFUNC) | ★★★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SUMCUBE](https://www.codechef.com/SEPT17/problems/SUMCUBE) | ★★★★★★ | | | | |
