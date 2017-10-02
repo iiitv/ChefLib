@@ -1,4 +1,4 @@
-/* by srshashi  */
+/* Copyright: Shashi Ranjan, CSE 3rd yr, BIT Mesra  */
 
 #include <bits/stdc++.h>
  
