@@ -49,6 +49,9 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
 #### It is advised to first read how to contribute to this repository before [creating an issue](https://github.com/iiitv/ChefLib/issues/new).
 See [CONTRIBUTING.md](https://github.com/iiitv/ChefLib/blob/master/CONTRIBUTING.md).
 
+## Adding Entry to month README
+#### If you are confused over how to add an entry to the monthwise README's you can always read [this](.github/ADD_ME_IN_README.md)
+
 ## Project Maintainers
 
 * [Aashutosh Rathi](https://github.com/aashutoshrathi)
