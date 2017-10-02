@@ -30,11 +30,11 @@ int main(){
         si(n);
         si(k);
         rep(i,0,n) si(arr[i]);
-        bool present[10+(1<<k)];
-        mem(present,false);
-        rep(i,0,n) present[arr[i]]=true;
-        int ans=0;
-        rep(i,1,1<<k) if(powerof2(i) && present[i]==false) ans++;
+        bool present[10 + (1 << k)];
+        mem(present, false);
+        rep(i,0,n) present[arr[i]] = true;
+        int ans = 0;
+        rep(i,1,1<<k) if(powerof2(i) && present[i] == false) ans++;
         cout << ans << endl;
     }
     return 0;
