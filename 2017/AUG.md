@@ -16,7 +16,7 @@
 | [AUG17](https://www.codechef.com/AUG17) | [CHEFFA](https://www.codechef.com/AUG17/problems/CHEFFA) | ★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [STRINGRA](https://www.codechef.com/AUG17/problems/STRINGRA) | ★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [MATDW](https://www.codechef.com/AUG17/problems/MATDW) | ★★★★ | | | | |
-| [AUG17](https://www.codechef.com/AUG17) | [HILLJUMP](https://www.codechef.com/AUG17/problems/HILLJUMP) | ★★★★★ | | | | |
+| [AUG17](https://www.codechef.com/AUG17) | [HILLJUMP](https://www.codechef.com/AUG17/problems/HILLJUMP) | ★★★★★ | | [![image](../img/GH.png)](AUG/AUG17/HILLJUMP/HILLJUMP.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14996982) (100 pts) [![image](../img/AC.png)](#) | | |
 | [AUG17](https://www.codechef.com/AUG17) | [WALKBT](https://www.codechef.com/AUG17/problems/WALKBT) | ★★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [FLOWERPO](https://www.codechef.com/AUG17/problems/FLOWERPO) | ★★★★★ | | | | |
 
@@ -26,7 +26,7 @@
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK85](https://www.codechef.com/COOK85) | [ELEVSTRS](https://www.codechef.com/COOK85/problems/ELEVSTRS) | ★★ | | [![image](../img/GH.png)](AUG/COOK85/ELEVSTRS/ELEVSTRS.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15044633) (100 pts) [![image](../img/AC.png)](#) | | |
-| [COOK85](https://www.codechef.com/COOK85) | [OBTTRNGL](https://www.codechef.com/COOK85/problems/OBTTRNGL) | ★★★ | | | | |
+| [COOK85](https://www.codechef.com/COOK85) | [OBTTRNGL](https://www.codechef.com/COOK85/problems/OBTTRNGL) | ★★★ | | [![image](../img/GH.png)](AUG/COOK85/OBTTRNGL/OBTTRNGL.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15051769) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK85](https://www.codechef.com/COOK85) | [MTRXMOD](https://www.codechef.com/COOK85/problems/MTRXMOD) | ★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [GAMSTICK](https://www.codechef.com/COOK85/problems/GAMSTICK) | ★★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [TRCNTCT](https://www.codechef.com/COOK85/problems/TRCNTCT) | ★★★★★ | | | | |

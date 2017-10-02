@@ -3,6 +3,7 @@
 [![Join the chat at https://gitter.im/iiitv/ChefLib](https://badges.gitter.im/iiitv/ChefLib.svg)](https://gitter.im/iiitv/ChefLib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub issues](https://img.shields.io/github/issues/iiitv/ChefLib.svg)](https://github.com/iiitv/ChefLib/issues)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/iiitv/ChefLib/issues)
+[![Code Climate](https://codeclimate.com/github/iiitv/ChefLib/badges/gpa.svg)](https://codeclimate.com/github/iiitv/ChefLib)
 
 ### Library of Sweet Dishes (codes) by Chefs (Coders).
 
@@ -26,7 +27,7 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [June 2017](2017/JUN.md) | [![image](img/AC.png)](2017/JUN.md#long) | COOK83 [![image](img/AC.png)](2017/JUN.md#cook) | LTIME49 [![image](img/AC.png)](2017/JUN.md#ltime) |
 | [July 2017](2017/JULY.md) | [![image](img/AC.png)](2017/JULY.md#long) | `Unrated` | LTIME50 [![image](img/AC.png)](2017/JULY.md#ltime) |
 | [August 2017](2017/AUG.md) | [![image](img/AC.png)](2017/AUG.md#long) | COOK85 [![image](img/AC.png)](2017/AUG.md#cook) | LTIME51 [![image](img/AC.png)](2017/AUG.md#ltime) |
-| [September 2017](2017/SEPT.md) | [![image](img/AC.png)](2017/SEPT.md#long) | COOK85 [![image](img/AC.png)](2017/SEPT.md#cook) | LTIME51 [![image](img/AC.png)](2017/SEPT.md#ltime) |
+| [September 2017](2017/SEPT.md) | [![image](img/AC.png)](2017/SEPT.md#long) | COOK85 [![image](img/AC.png)](2017/SEPT.md#cook) | LTIME52 [![image](img/AC.png)](2017/SEPT.md#ltime) |
 
 
 <a name="ecr"></a>
@@ -48,6 +49,9 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
 ## Contributing
 #### It is advised to first read how to contribute to this repository before [creating an issue](https://github.com/iiitv/ChefLib/issues/new).
 See [CONTRIBUTING.md](https://github.com/iiitv/ChefLib/blob/master/CONTRIBUTING.md).
+
+## Adding Entry to month README
+#### If you are confused over how to add an entry to the monthwise README's you can always read [this](.github/ADD_ME_IN_README.md)
 
 ## Project Maintainers
 
