@@ -10,11 +10,11 @@ int main()
 	{
 		long long x;
 		cin>>x;
-		if(x>1)
+		if(x > 1)
 		{
-		long long y=x/2;
-		long long z=y+x;
-		for(long long t=y;t<z;t++)
+		long long y = x / 2;
+		long long z = y + x;
+		for(long long t = y;t < z;t++)
 		cout<<t<<" ";
 		cout<<endl;
 	}
