@@ -1,3 +1,5 @@
+// Code by nextbigthing
+
 #include<iostream>
 using namespace std;
 int main()
