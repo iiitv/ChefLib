@@ -1,8 +1,8 @@
-## Index Of Dishes From December 2016
+## Index Of Dishes from December 2016
 
-#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/aashutoshrathi/CodeChef/issues/new) and Send a PR when assigned.
+#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/iiitv/ChefLib/issues/new) and Send a PR when assigned.
 
-##### Here in this Table ![image](../img/CC.png) links to solution on CodeChef and ![image](../img/GH.png) links to solution on this repository.
+##### Here in this Table [![image](../img/CC.png)](#) links to solution on CodeChef and [![image](../img/GH.png)](#) links to solution on this repository.
 
 <a name="long"></a>
 #### Long

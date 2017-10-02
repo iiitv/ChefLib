@@ -1,6 +1,6 @@
-## Index Of Dishes for MAY 17
+## Index Of Dishes from May 17
 
-#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/aashutoshrathi/CodeChef/issues/new) and Send a PR when assigned.
+#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/iiitv/ChefLib/issues/new) and Send a PR when assigned.
 
 ##### Here in this Table [![image](../img/CC.png)](#) links to solution on CodeChef and [![image](../img/GH.png)](#) links to solution on this repository.
 
@@ -15,8 +15,8 @@
 | [MAY17](https://www.codechef.com/MAY17) | [CHEFSUBA](https://www.codechef.com/MAY17/problems/CHEFSUBA) | ★★★ | | [![image](../img/GH.png)](MAY/MAY17/CHEFSUBA/CHEFSUBA.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13521626) (100 pts) [![image](../img/AC.png)](#) | | [![image](../img/GH.png)](MAY/MAY17/CHEFSUBA/CHEFSUBA.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13587367) (30 pts) [![image](../img/TLE.png)](#) |
 | [MAY17](https://www.codechef.com/MAY17) | [WSITES01](https://www.codechef.com/MAY17/problems/WSITES01) | ★★★ | | [![image](../img/GH.png)](MAY/MAY17/WSITES01/WSITES01.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13539627) (30 pts) [![image](../img/TLE.png)](#) | | [![image](../img/GH.png)](MAY/MAY17/WSITES01/WSITES01.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13540222) (30 pts) [![image](../img/TLE.png)](#) |
 | [MAY17](https://www.codechef.com/MAY17) | [CHEFCODE](https://www.codechef.com/MAY17/problems/CHEFCODE) | ★★★★ | | [![image](../img/GH.png)](MAY/MAY17/CHEFCODE/CHEFCODE.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13511169) (30 pts) [![image](../img/TLE.png)](#) | [![image](../img/GH.png)](MAY/MAY17/CHEFCODE/CHEFCODE.java)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13548344) (30 pts) [![image](../img/WA.png)](#) | [![image](../img/GH.png)](MAY/MAY17/CHEFCODE/CHEFCODE.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13555085) (30 pts) [![image](../img/WA.png)](#) |
-| [MAY17](https://www.codechef.com/MAY17) | [GPD](https://www.codechef.com/MAY17/problems/GPD) | ★★★★ | | | | |
-| [MAY17](https://www.codechef.com/MAY17) | [SANDWICH](https://www.codechef.com/MAY17/problems/SANDWICH) | ★★★★★ | | | | |
+| [MAY17](https://www.codechef.com/MAY17) | [GPD](https://www.codechef.com/MAY17/problems/GPD) | ★★★★ | | [![image](../img/GH.png)](MAY/MAY17/GPD/GPD.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/13585707) (100 pts) [![image](../img/AC.png)](#) | | |
+| [MAY17](https://www.codechef.com/MAY17) | [SANDWICH](https://www.codechef.com/MAY17/problems/SANDWICH) | ★★★★★ | | [![image](../img/GH.png)](MAY/MAY17/SANDWICH/SANDWICH.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15224401) (100 pts) [![image](../img/AC.png)](#) | | |
 | [MAY17](https://www.codechef.com/MAY17) | [CHEFBATL](https://www.codechef.com/MAY17/problems/CHEFBATL) | ★★★★★ | | | | |
 | [MAY17](https://www.codechef.com/MAY17) | [KILLER](https://www.codechef.com/MAY17/problems/KILLER) | ★★★★★ | | | | |
 

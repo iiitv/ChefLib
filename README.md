@@ -26,6 +26,7 @@ You can Discuss about problems (not ones in LIVE contest) at our [Gitter Channel
 | [June 2017](2017/JUN.md) | [![image](img/AC.png)](2017/JUN.md#long) | COOK83 [![image](img/AC.png)](2017/JUN.md#cook) | LTIME49 [![image](img/AC.png)](2017/JUN.md#ltime) |
 | [July 2017](2017/JULY.md) | [![image](img/AC.png)](2017/JULY.md#long) | `Unrated` | LTIME50 [![image](img/AC.png)](2017/JULY.md#ltime) |
 | [August 2017](2017/AUG.md) | [![image](img/AC.png)](2017/AUG.md#long) | COOK85 [![image](img/AC.png)](2017/AUG.md#cook) | LTIME51 [![image](img/AC.png)](2017/AUG.md#ltime) |
+| [September 2017](2017/SEPT.md) | [![image](img/AC.png)](2017/SEPT.md#long) | COOK85 [![image](img/AC.png)](2017/SEPT.md#cook) | LTIME52 [![image](img/AC.png)](2017/SEPT.md#ltime) |
 
 
 <a name="ecr"></a>
@@ -45,8 +46,11 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
   Rest of commit messages should reflect the changes done in respective commit.
 
 ## Contributing
-#### It is advised to first read how to contribute to this repository before creating an issue.
+#### It is advised to first read how to contribute to this repository before [creating an issue](https://github.com/iiitv/ChefLib/issues/new).
 See [CONTRIBUTING.md](https://github.com/iiitv/ChefLib/blob/master/CONTRIBUTING.md).
+
+## Adding Entry to month README
+#### If you are confused over how to add an entry to the monthwise README's you can always read [this](.github/ADD_ME_IN_README.md)
 
 ## Project Maintainers
 
