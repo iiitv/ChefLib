@@ -12,41 +12,40 @@ ll exponent(ll, ll);
 ll modinverse(ll);
 int main()
 {
-    //your code goes here
     ll t;
-    scanf("%lld", &t);
+    cin>>t;
     while(t--)
     {
         ll n;
-        scanf("%lld", &n);
+        cin>>n;
         n--;
         ll x, y, temp1, temp2;
-        MOD=MAX1;
+        MOD = MAX1;
         x = ((n % MOD) * ((n+1) % MOD)) % MOD;
         y = (2*((2*n-1) % MOD)) % MOD;
-        if(x%2==0 && y%2==0)
+        if(x % 2 == 0 && y % 2 == 0)
         {
-            x/=2;
-            y/=2;
+            x /= 2;
+            y /= 2;
         }
-        if(x%3==0 && y%3==0)
+        if(x % 3 == 0 && y % 3 == 0)
         {
-            x/=3;
-            y/=3;
+            x /= 3;
+            y /= 3;
         }
         temp1=((x % MOD)*(modinverse(y))) % MOD;
-        MOD=MAX2;
+        MOD = MAX2;
         x = ((n % MOD) * ((n+1) % MOD)) % MOD;
         y = (2*((2*n-1) % MOD)) % MOD;
-        if(x%2==0 && y%2==0)
+        if(x % 2 == 0 && y % 2 == 0)
         {
-            x/=2;
-            y/=2;
+            x /= 2;
+            y /= 2;
         }
-        if(x%3==0 && y%3==0)
+        if(x % 3 == 0 && y % 3 == 0)
         {
-            x/=3;
-            y/=3;
+            x /= 3;
+            y /= 3;
         }
         temp2=((x % MOD)*(modinverse(y))) % MOD;
         cout<<temp1<<" "<<temp2<<"\n";
@@ -60,7 +59,7 @@ ll exponent(ll a, ll b)
         return 1;
     ll temp = (exponent(a, b/2)) % MOD;
     temp = (temp*temp) % MOD;
-    return (b%2==0)? temp : ((a % MOD)*temp) % MOD;
+    return (b % 2 == 0)? temp : ((a % MOD)*temp) % MOD;
 }
 
 ll modinverse(ll val)
