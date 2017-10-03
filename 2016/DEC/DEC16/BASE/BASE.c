@@ -6,10 +6,10 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
- 
+
 typedef long int BIG;
 
- 
+
 int main()
 {
 	int t;
@@ -30,7 +30,7 @@ int main()
 		{
 			printf("1\n");
 		}
- 
+
 		else
 		{
 			for(i=3;i<=n;i++)
@@ -39,24 +39,24 @@ int main()
 				{
 					t=t/i;
 					if(t-i<0)
-				    {
-				    	if(t==1)
-				       {
-					      count++;
-			   	       }
-			   	       break; //stops loop from running additionally
-			     	}
-				    
+					{
+						if(t==1)
+					   {
+						  count++;
+					   }
+					   break; //stops loop from running additionally
+					}
+
 				}
-				
+
 			}
 			printf("%ld\n",count);
 		}
-		
+
 	}
-	
+
 	return 0;
 }
- 
- 
- 
+
+
+

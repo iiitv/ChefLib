@@ -63,7 +63,7 @@ while(tc--)
 			}
 		}
 	if(checker==1)
-		cout<<"yes\n";	
+		cout<<"yes\n";
 	else
 		cout<<"no\n";
 	}

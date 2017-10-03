@@ -11,8 +11,8 @@
 typedef long long int lli;
 typedef long int BIG;
 #define mod(x) x%1000000007;
-#define MIN( n1, n2 )   ((n1) > (n2) ? (n2) : (n1))
-#define MAX( n1, n2 )   ((n1) > (n2) ? (n1) : (n2))
+#define MIN( n1, n2 )	((n1) > (n2) ? (n2) : (n1))
+#define MAX( n1, n2 )	((n1) > (n2) ? (n1) : (n2))
 
 
 int main()

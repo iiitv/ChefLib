@@ -2,7 +2,7 @@
 #include"bits/stdc++.h"
 #include<stdio.h>
 using namespace std;
- 
+
 int main()
 {
 int tc;
@@ -13,7 +13,7 @@ while(tc--)
 		scanf("%d%d",&n,&k);
 		int min[n];
 		int cost[n];
- 
+
 		for(int i=0;i<n;++i)
 		{
 			scanf("%d%d",&min[i],&cost[i]);
@@ -34,5 +34,5 @@ while(tc--)
 			total+=(min[j]*cost[j]);
 		}
 		printf("%d\n",total );
-	}	
+	}
 }

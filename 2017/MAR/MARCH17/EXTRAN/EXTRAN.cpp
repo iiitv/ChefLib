@@ -6,9 +6,9 @@
 #include <algorithm>
 #include <stdio.h>
 /*
-	Aashutosh Rathi 
+	Aashutosh Rathi
 	Code Chef March Long Problem 2
-	Bear and Extra Number 
+	Bear and Extra Number
 */
 using namespace std;
 typedef long int BIG;
@@ -38,5 +38,5 @@ int main()
 		}
 
 	}
-	return 0;	
+	return 0;
 }
