@@ -1,17 +1,17 @@
 #__BY:sirjan13__
 
 
-def gcd(n,m):
+def gcd(n, m):
     if n == 0:
         return m
     return gcd(m % n, n)
 
 
-t1, t2=0, 0
+t1, t2 = 0, 0
 
 
 def egcd(a, b):
-    x, y, u, v = 0, 1, 1, 0 	 	 
+    x, y, u, v = 0, 1, 1, 0
     while a != 0:
         q, r = b//a, b % a
         m, n = x-u*q, y-v*q
@@ -20,8 +20,8 @@ def egcd(a, b):
     return gc, x, y
 
 
-def mi(a,m):
-    g = egcd(a,m)
+def mi(a, m):
+    g = egcd(a, m)
     ans = (g[1] % m + m) % m
     return ans
 
