@@ -1,6 +1,12 @@
 # For local fixing
 # coala --apply-patches -n
 
+# C/C++ Spacing
+[C/CPP Spacing]
+files = **/*.c, **/*.cpp
+bears = SpaceConsistencyBear
+use_spaces = False
+
 # Python lint
 [pep8]
 files = **/*.py
