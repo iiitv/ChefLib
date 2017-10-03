@@ -18,7 +18,7 @@ int main()
 				cout << t << " ";
 			cout << endl;
 		}
-		else 
+		else
 			cout << 1 << endl;
 	}
 }

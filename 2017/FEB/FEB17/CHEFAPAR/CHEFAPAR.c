@@ -11,7 +11,7 @@
 typedef long long int lli;
 typedef long int li;
 
-// Aashutosh Rathi 
+// Aashutosh Rathi
 // CodeChef February Long CHEFAPAR
 
 int main()

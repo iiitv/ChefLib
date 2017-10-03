@@ -42,42 +42,42 @@ int main()
    int t;
    si(t);
    while(t--){
-      sll(n); sll(m);
-      mem(ADD, 0);
-      mem(SUB, 0);
-      mem(A, 0);
-      C = 1;
-      rep(i, 0, m){
-        si(arr[i].f);
-        sll(arr[i].s.f);
-        sll(arr[i].s.s);
-        arr[i].s.f -= 1;
-        arr[i].s.s -= 1;
-      }
-      for(int i = m-1; i >= 0; i--){ 
-          add(C, ADD[i]);
-          add(C, -1LL*SUB[i]);
-          ADD[i] = C;
-          if(arr[i].f == 2){
-             if(arr[i].s.f > 0) add(SUB[arr[i].s.f-1], C);
-             add(ADD[arr[i].s.s], C);
-          }
-      }
-      mem(SUB, 0);
-      rep(i, 0, m)
-           if(arr[i].f == 1){
-               if(arr[i].s.s < (n-1)) add(SUB[arr[i].s.s+1],ADD[i]);
-               add(A[arr[i].s.f],ADD[i]);
-           }
-      C = 0;
-      rep(i, 0, n){
-        add(C, A[i]);
-        add(C, -1*SUB[i]);
-        A[i] = C;
-      }
-      rep(i,0,n) plls(A[i]);
-      newLine;
+	  sll(n); sll(m);
+	  mem(ADD, 0);
+	  mem(SUB, 0);
+	  mem(A, 0);
+	  C = 1;
+	  rep(i, 0, m){
+		si(arr[i].f);
+		sll(arr[i].s.f);
+		sll(arr[i].s.s);
+		arr[i].s.f -= 1;
+		arr[i].s.s -= 1;
+	  }
+	  for(int i = m-1; i >= 0; i--){
+		  add(C, ADD[i]);
+		  add(C, -1LL*SUB[i]);
+		  ADD[i] = C;
+		  if(arr[i].f == 2){
+			 if(arr[i].s.f > 0) add(SUB[arr[i].s.f-1], C);
+			 add(ADD[arr[i].s.s], C);
+		  }
+	  }
+	  mem(SUB, 0);
+	  rep(i, 0, m)
+		   if(arr[i].f == 1){
+			   if(arr[i].s.s < (n-1)) add(SUB[arr[i].s.s+1],ADD[i]);
+			   add(A[arr[i].s.f],ADD[i]);
+		   }
+	  C = 0;
+	  rep(i, 0, n){
+		add(C, A[i]);
+		add(C, -1*SUB[i]);
+		A[i] = C;
+	  }
+	  rep(i,0,n) plls(A[i]);
+	  newLine;
   }
   return 0;
-     
+
 }

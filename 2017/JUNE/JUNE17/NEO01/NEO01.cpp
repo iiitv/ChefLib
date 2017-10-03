@@ -8,17 +8,17 @@
 // Yaar use long long instead of long
 using namespace std;
 
-#define mod(x) 			x%1000000007;
-#define MIN(n1, n2 )    ((n1) > (n2) ? (n2) : (n1))
-#define MAX(n1, n2 )    ((n1) > (n2) ? (n1) : (n2))
-#define MID(s, e)       (s+(e-s)/2)
-#define FOR(i, a, b) 	int i; for(i=(a);i<(b);i++)
-#define FORD(i, a, b) 	int i; for(i=(a);i>(b);i--)
+#define mod(x)			x%1000000007;
+#define MIN(n1, n2 )	((n1) > (n2) ? (n2) : (n1))
+#define MAX(n1, n2 )	((n1) > (n2) ? (n1) : (n2))
+#define MID(s, e)		(s+(e-s)/2)
+#define FOR(i, a, b)	int i; for(i=(a);i<(b);i++)
+#define FORD(i, a, b)	int i; for(i=(a);i>(b);i--)
 #define show(a)			for(i=0;i<sizeof(a);i++) cout<<a[i]<<" ";
 #define get(a)			for(i=0;i<sizeof(a);i++) cin>>a[i];
-#define scanint(a) 		scanf("%d",&a)
-#define scanLLD(a) 		scanf("%lld",&a)
-#define scanstr(s) 		scanf("%s",s)
+#define scanint(a)		scanf("%d",&a)
+#define scanLLD(a)		scanf("%lld",&a)
+#define scanstr(s)		scanf("%s",s)
 #define scanline(l) 	scanf(" %[^\n]",l);
 
 typedef long BIG;
@@ -43,7 +43,7 @@ int main() {
 			else {
 				v.push_back(-a[i]);
 				negsum += -a[i];
-			} 
+			}
 		}
 
 		//cout << "negsum: " << negsum << endl;
@@ -59,12 +59,12 @@ int main() {
 			for(i=0; i<v.size();i++) {
 				negative += v[i];
 				maxy.push_back((positive-negative)*(positivec+i+1) - (negsum - negative));
-			}	
+			}
 		}
 
 		else
 			maxy.push_back(0);
-		
+
 
 		//cout << "maxy :";
 		//for(BIG x:maxy)
@@ -77,5 +77,5 @@ int main() {
 		cout << maxres << endl;
 
 	}
-	return 0;	
+	return 0;
 }

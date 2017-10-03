@@ -44,7 +44,7 @@ int main()
 		{
 			printf("%dSU\n",n+1);
 		}
-		
+
 
 	}
 	return 0;

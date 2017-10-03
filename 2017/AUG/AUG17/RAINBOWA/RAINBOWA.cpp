@@ -30,7 +30,7 @@ int main() {
 				if(A[i]!=A[n-i-1]) {
 						flag=1;
 						break;
-					}	
+					}
 		}
 		if(!flag)
 			cout<<"yes\n";

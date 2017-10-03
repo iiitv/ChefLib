@@ -37,5 +37,5 @@ int main() {
 			cout << "RealMadrid" << endl;
 
 	}
-	return 0;	
+	return 0;
 }
