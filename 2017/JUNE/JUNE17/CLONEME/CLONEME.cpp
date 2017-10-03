@@ -1,8 +1,8 @@
 // Code wriiten by Monal
 #include "bits/stdc++.h"
- 
+
 using namespace std;
- 
+
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
@@ -23,19 +23,19 @@ int main() {
 			long int copyn = b - a + 1;
 			vector < long int > arr1(copyn);
 			vector <long int > arr2(copyn);
-			
+
 			long int j = a - 1;
- 
+
 			for (long int i = 0; i < copyn; ++i, ++j)
 				arr1[i] = arr[j];
 			sort(arr1.begin(), arr1.end());
- 
+
 			j = c - 1;
- 
+
 			for (long int i = 0; i < copyn; ++i, ++j)
 				arr2[i] = arr[j];
 			sort(arr2.begin(), arr2.end());
- 
+
 			for (long int i = 0; i < copyn; ++i) {
 				if (arr1[i] != arr2[i]) {
 					if (chance)
