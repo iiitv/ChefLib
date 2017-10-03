@@ -25,7 +25,7 @@ def mi(a, m):
     ans = (g[1] % m + m) % m
     return ans
 
- 
+
 mod1 = 10**9+7
 mod2 = mod1 + 2
 for cppp in range(int(raw_input())):
