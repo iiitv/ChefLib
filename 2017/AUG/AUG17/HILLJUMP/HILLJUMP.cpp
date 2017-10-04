@@ -20,7 +20,7 @@ using namespace std;
 #define MAX 100005
 #define block 100
 #define newLine printf("\n")
- 
+
 ll countt[1001][block];
 ll last[1001][block];
 ll Parent[1001][block];

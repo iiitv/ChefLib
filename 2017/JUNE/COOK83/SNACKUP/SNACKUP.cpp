@@ -1,9 +1,9 @@
 // Code written by Monal
 #include "bits/stdc++.h"
- 
+
 using namespace std;
- 
- 
+
+
 void call_even(int n) {
 	int j = 1;
 	for (int i = 1; i <= n; i += 2) {
@@ -18,8 +18,8 @@ void call_even(int n) {
 		j += 2;
 	}
 }
- 
- 
+
+
 void call_odd(int n) {
 	int j = 1;
 	for (int i = 1; i <= n; ++i) {
@@ -34,8 +34,8 @@ void call_odd(int n) {
 		}
 	}
 }
- 
- 
+
+
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);

@@ -1,6 +1,8 @@
 # Code written by Divyesh
 import collections
 import itertools
+
+
 def main():
     n, k, p = input().split()
     arr = list(map(int, input().split()))
@@ -18,8 +20,9 @@ def main():
                 ans = list(itertools.islice(arr, x, x+int(k))).count(1)
                 if ans > y:
                     y = ans
-            u = 0        
-            print (y)
+            u = 0
+            print(y)
+
 
 if __name__ == '__main__':
-    main()                       
+    main()

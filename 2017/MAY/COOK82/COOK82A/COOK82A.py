@@ -4,7 +4,7 @@ def main():
     while t > 0:
         l = []
         l1 = []
-        for x in range(4):    
+        for x in range(4):
             str, n = input().split()
             l.append(str)
             l1.append(n)
@@ -18,5 +18,6 @@ def main():
             print("RealMadrid")
         t = t - 1
 
+
 if __name__ == '__main__':
-    main()             
+    main()
