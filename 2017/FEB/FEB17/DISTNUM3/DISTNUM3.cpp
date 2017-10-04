@@ -168,7 +168,7 @@ int main(){
 		int u = id[L], v = id[R], lc = q[i].lc;
 		if(lc != u && lc != v) check(lc);
 		ans[q[i].i] = res;
-		if(lc != u && lc != v) check(lc);	
+		if(lc != u && lc != v) check(lc);
 	}
 	rep(i, 0, qct) printf("%d\n", ans[i]);
 }
