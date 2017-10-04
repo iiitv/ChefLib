@@ -1,8 +1,8 @@
 def main():
     t = int(raw_input())
     while t:
-        t-=1
-        n = map(int,raw_input().split())
+        t -= 1
+        n = map(int, raw_input().split())
         q = n[1]
         n = n[0]
         queries = []
@@ -16,38 +16,38 @@ def main():
             queries.append(a)
         queries.sort()
         for i in queries:
-            if(i[0]==i[1] and i[2]==1):
+            if(i[0] == i[1] and i[2] == 1):
                 ans = 0
                 break
-            elif(i[0]==i[1] and i[2]==0):
+            elif(i[0] == i[1] and i[2] == 0):
                 continue
             else:
-                if(good[i[0]]=='a' and good[i[1]]=='a'):
+                if(good[i[0]] == 'a' and good[i[1]] == 'a'):
                     if(i[2]==1):
                         good[i[0]] = 1
                         good[i[1]] = 0
                     else:
                         good[i[0]] = 0
                         good[i[1]] = 0
-                elif(good[i[0]]!='a' and good[i[1]]=='a'):
-                    if(good[i[0]]==1):
-                        if(i[2]==1):
+                elif(good[i[0]] != 'a' and good[i[1]] == 'a'):
+                    if(good[i[0]] == 1):
+                        if(i[2] == 1):
                             good[i[1]] = 0
                         else:
                             good[i[1]] = 1
                     else:
-                        if(i[2]==1):
+                        if(i[2] == 1):
                             good[i[1]] = 1
                         else:
                             good[i[1]] = 0
-                elif(good[i[0]]=='a' and good[i[1]]!='a'):
-                    if(good[i[1]]==1):
-                        if(i[2]==1):
+                elif(good[i[0]] == 'a' and good[i[1]] != 'a'):
+                    if(good[i[1]] == 1):
+                        if(i[2] == 1):
                             good[i[0]] = 0
                         else:
                             good[i[0]] = 1
                     else:
-                        if(i[2]==1):
+                        if(i[2] == 1):
                             good[i[0]] = 1
                         else:
                             good[i[0]] = 0
