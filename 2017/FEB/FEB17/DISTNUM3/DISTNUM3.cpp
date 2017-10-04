@@ -1,7 +1,7 @@
 // copyright: Gvs Akhil (vicennial), CSE, IIT Indore
 #include<bits/stdc++.h>
-#define sz(a) int((a).size()) 
-#define pb push_back 
+#define sz(a) int((a).size())
+#define pb push_back
 #define eb emplace_back
 #define mp make_pair
 #define mt make_tuple
@@ -16,20 +16,11 @@
 #define present(c, x) (find(all(c), x) != (c).end())
 #define sync ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0)
 #define osit ostream_iterator
-#define INF 		0x3f3f3f3f
-#define LLINF       1000111000111000111LL
-#define PI 			3.14159265358979323
 #define endl '\n'
 #ifdef WIN32
 #define getchar_unlocked getchar_unlocked
 #endif
 #define gc getchar
-#define trace1(x)                cerr<<#x<<": "<<x<<endl
-#define trace2(x, y)             cerr<<#x<<": "<<x<<" | "<<#y<<": "<<y<<endl
-#define trace3(x, y, z)          cerr<<#x<<":" <<x<<" | "<<#y<<": "<<y<<" | "<<#z<<": "<<z<<endl
-#define trace4(a, b, c, d)       cerr<<#a<<": "<<a<<" | "<<#b<<": "<<b<<" | "<<#c<<": "<<c<<" | "<<#d<<": "<<d<<endl
-#define trace5(a, b, c, d, e)    cerr<<#a<<": "<<a<<" | "<<#b<<": "<<b<<" | "<<#c<<": "<<c<<" | "<<#d<<": "<<d<<" | "<<#e<< ": "<<e<<endl
-#define trace6(a, b, c, d, e, f) cerr<<#a<<": "<<a<<" | "<<#b<<": "<<b<<" | "<<#c<<": "<<c<<" | "<<#d<<": "<<d<<" | "<<#e<< ": "<<e<<" | "<<#f<<": "<<f<<endl
 #define N 1000006
 using namespace std;
 typedef vector<int> vi;
@@ -85,12 +76,12 @@ void dfs(int n, int p, int ct){
 inline int lca(int u, int v){
 	if(level[u] < level[v]) swap(u,v);
 	int dist=level[u]-level[v];
-	while(dist){ 
+	while(dist){
 		int k = log2(dist); dist -= (1<<k);
 		u = st[k][u];
 	}
 	if(u==v) return u;
-	for(int i = 16;i>= 0;i--){ 
+	for(int i = 16;i>= 0;i--){
 		if(st[i][u] != -1 && st[i][u] != st[i][v]){
 			u = st[i][u];
 			v = st[i][v];
@@ -111,13 +102,13 @@ inline void change(int& u, int& c){
 }
 int main(){
 	conv.reserve(1024); conv.max_load_factor(0.25);
-	int n, m, u, v; read(n); read(m); 
+	int n, m, u, v; read(n); read(m);
 	rep(i, 0, n) read(col[i]), ctemp[i] = col[i], last[i] = col[i];
 	rep(i, 0, n-1){
 		read(u); read(v); --u; --v; g[u].eb(v); g[v].eb(u);
 	}
-	sort(ctemp, ctemp + n); 	
-	int zz=unique(ctemp, ctemp+n) - ctemp, org; 
+	sort(ctemp, ctemp + n);
+	int zz=unique(ctemp, ctemp+n) - ctemp, org;
 	rep(i, 0, n) {
 		org = col[i];
 		col[i] = (lower_bound(ctemp, ctemp+zz, col[i]) - ctemp) + 1; last[i] = col[i]; conv[org] = col[i];
@@ -177,7 +168,7 @@ int main(){
 		int u = id[L], v = id[R], lc = q[i].lc;
 		if(lc != u && lc != v) check(lc);
 		ans[q[i].i] = res;
-		if(lc != u && lc != v) check(lc);		
+		if(lc != u && lc != v) check(lc);	
 	}
 	rep(i, 0, qct) printf("%d\n", ans[i]);
 }
