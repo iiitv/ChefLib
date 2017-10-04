@@ -1,8 +1,6 @@
-//By: Savitoj Singh
-
+//By Savitoj Singh
 #include< bits/stdc++.h >
 using namespace std;
- 
 int main() {
 	int t;
 	cin >> t;
@@ -33,10 +31,12 @@ int main() {
 				break;
 			}
 		}
-		if ( flag )
+		if ( flag ) {
 			cout << "Yes\n";
-		else 
+		}
+		else {
 			cout << "No\n";
+		}
 	}
 	return 0;
 }
