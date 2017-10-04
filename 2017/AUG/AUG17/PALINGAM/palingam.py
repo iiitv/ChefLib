@@ -4,8 +4,8 @@ while t > 0 :
     b = input()
     la = list()
     lb = list()
-    la = 26*[0]
-    lb = 26*[0]
+    la = 26 * [0]
+    lb = 26 * [0]
     sa = set()
     sb = set()
     for i in range(len(a)):
@@ -15,7 +15,7 @@ while t > 0 :
         sb.add(b[i])
     p = int(1)
     for i in range(26):
-        if la[i]>1 and lb[i] == 0:
+        if la[i] > 1 and lb[i] == 0:
             p = 0
             print("A")
             break
