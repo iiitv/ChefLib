@@ -26,7 +26,7 @@ int main() {
 		}
 		int flag = 1;
 		for (int i=0 ; i < 5 ; i++) {
-			if(y[i] == 0) { 
+			if(y[i] == 0) {
 				flag = 0;
 				break;
 			}
