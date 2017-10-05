@@ -36,7 +36,7 @@
 
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| [LTIME52](https://www.codechef.com/LTIME52) | [C00K0FF](https://www.codechef.com/LTIME52/problems/C00K0FF) | ★★★ | | | | [![image](../img/GH.png)](SEPT/LTIME52/COOKOFF/COOKOFF.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15560158) (100 pts) [![image](../img/AC.png)](#) |
+| [LTIME52](https://www.codechef.com/LTIME52) | [C00K0FF](https://www.codechef.com/LTIME52/problems/C00K0FF) | ★★★ | | | | [![image](../img/GH.png)](SEPT/LTIME52/C00K0FF/C00K0FF.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15560158) (100 pts) [![image](../img/AC.png)](#) |
 | [LTIME52](https://www.codechef.com/LTIME52) | [CHEFDICE](https://www.codechef.com/LTIME52/problems/CHEFDICE) | ★★★★ | | | | |
 | [LTIME52](https://www.codechef.com/LTIME52) | [CHEFPCHF](https://www.codechef.com/LTIME52/problems/CHEFPCHF) | ★★★★★ | | | | |
 | [LTIME52](https://www.codechef.com/LTIME52) | [CHEFTRAF](https://www.codechef.com/LTIME52/problems/CHEFTRAF) | ★★★★★★ | | | | |
