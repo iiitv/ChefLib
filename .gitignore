@@ -17,6 +17,6 @@
 *.class
 *.pyc
 *.html
-.idea
+.idea/
 
 
