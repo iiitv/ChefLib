@@ -12,7 +12,3 @@ use_spaces = False
 files = **/*.py
 bears = PEP8Bear
 
-#Java Lint
-[CheckStyleBear]
-files = **/*.java
-bears = CheckstyleBear
