@@ -1,3 +1,4 @@
+#Code Copyright: Amit Sarkar, Computer Science Engineering 2nd Year, BIT Mesra
 t=input()
 
 while(t>0):
