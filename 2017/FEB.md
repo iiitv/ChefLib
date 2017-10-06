@@ -1,6 +1,6 @@
 ## Index Of Dishes from February 2017
 
-#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/aashutoshrathi/CodeChef/issues/new) and Send a PR when assigned.
+#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/iiitv/ChefLib/issues/new) and Send a PR when assigned.
 
 ##### Here in this Table [![image](../img/CC.png)](#) links to solution on CodeChef and [![image](../img/GH.png)](#) links to solution on this repository.
 
@@ -18,7 +18,7 @@
 | [FEB17](https://www.codechef.com/FEB17) | [CHEFYODA](https://www.codechef.com/FEB17/problems/CHEFYODA) | ★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [CHEFBEST](https://www.codechef.com/FEB17/problems/CHEFBEST) | ★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [ALICGARD](https://www.codechef.com/FEB17/problems/ALICGARD) | ★★★★ | | | | |
-| [FEB17](https://www.codechef.com/FEB17) | [DISTNUM3](https://www.codechef.com/FEB17/problems/DISTNUM3) | ★★★★★ | | | | |
+| [FEB17](https://www.codechef.com/FEB17) | [DISTNUM3](https://www.codechef.com/FEB17/problems/DISTNUM3) | ★★★★★ | | [![image](../img/GH.png)](FEB/FEB17/DISTNUM3/DISTNUM3.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12870071) (100 pts) [![image](../img/AC.png)](#) | | |
 | [FEB17](https://www.codechef.com/FEB17) | [SEAINVS](https://www.codechef.com/FEB17/problems/SEAINVS) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [JAKKU](https://www.codechef.com/FEB17/problems/JAKKU) | ★★★★★ | | | | |
 

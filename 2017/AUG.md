@@ -1,8 +1,8 @@
 ## Index Of Dishes from August 2017
 
-#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/aashutoshrathi/CodeChef/issues/new) and Send a PR when assigned.
+#### All problems are open to contributions, but prefer working and improving solutions marked with [![image](../img/WA.png)](#) and [![image](../img/TLE.png)](#). Simply [Create an Issue](https://github.com/iiitv/ChefLib/issues/new) and Send a PR when assigned.
 
-##### Here in this Table ![image](../img/CC.png) links to solution on CodeChef and ![image](../img/GH.png) links to solution on this repository.
+##### Here in this Table [![image](../img/CC.png)](#) links to solution on CodeChef and [![image](../img/GH.png)](#) links to solution on this repository.
 
 <a name="long"></a>
 #### Long
@@ -12,11 +12,11 @@
 | [AUG17](https://www.codechef.com/AUG17) | [RAINBOWA](https://www.codechef.com/AUG17/problems/RAINBOWA) | ★★ | | [![image](../img/GH.png)](AUG/AUG17/RAINBOWA/RAINBOWA.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14909134) (100 pts) [![image](../img/AC.png)](#) | [![image](../img/GH.png)](AUG/AUG17/RAINBOWA/RAINBOWA.java)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14859923) (100 pts) [![image](../img/AC.png)](#) | |
 | [AUG17](https://www.codechef.com/AUG17) | [CHEFMOVR](https://www.codechef.com/AUG17/problems/CHEFMOVR) | ★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [GCAC](https://www.codechef.com/AUG17/problems/GCAC) | ★★★ | | [![image](../img/GH.png)](AUG/AUG17/GCAC/GCAC.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14947059) (100 pts) [![image](../img/AC.png)](#) | | |
-| [AUG17](https://www.codechef.com/AUG17) | [PALINGAM](https://www.codechef.com/AUG17/problems/PALINGAM) | ★★★ | | | | [![image](../img/GH.png)](AUG/AUG16/PALINGAM/PALINGAM.c) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15596349) (100 pts) [![image](../img/AC.png)](#)|
+| [AUG17](https://www.codechef.com/AUG17) | [PALINGAM](https://www.codechef.com/AUG17/problems/PALINGAM) | ★★★ | | [![image](../img/GH.png)](AUG/AUG17/PALINGAM/PALINGAM.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14908284) (100 pts) [![image](../img/AC.png)](#) | | [![image](../img/GH.png)](AUG/AUG16/PALINGAM/PALINGAM.c) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15596349) (100 pts) [![image](../img/AC.png)](#)|
 | [AUG17](https://www.codechef.com/AUG17) | [CHEFFA](https://www.codechef.com/AUG17/problems/CHEFFA) | ★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [STRINGRA](https://www.codechef.com/AUG17/problems/STRINGRA) | ★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [MATDW](https://www.codechef.com/AUG17/problems/MATDW) | ★★★★ | | | | |
-| [AUG17](https://www.codechef.com/AUG17) | [HILLJUMP](https://www.codechef.com/AUG17/problems/HILLJUMP) | ★★★★★ | | | | |
+| [AUG17](https://www.codechef.com/AUG17) | [HILLJUMP](https://www.codechef.com/AUG17/problems/HILLJUMP) | ★★★★★ | | [![image](../img/GH.png)](AUG/AUG17/HILLJUMP/HILLJUMP.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14996982) (100 pts) [![image](../img/AC.png)](#) | | |
 | [AUG17](https://www.codechef.com/AUG17) | [WALKBT](https://www.codechef.com/AUG17/problems/WALKBT) | ★★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [FLOWERPO](https://www.codechef.com/AUG17/problems/FLOWERPO) | ★★★★★ | | | | |
 
@@ -26,7 +26,7 @@
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK85](https://www.codechef.com/COOK85) | [ELEVSTRS](https://www.codechef.com/COOK85/problems/ELEVSTRS) | ★★ | | [![image](../img/GH.png)](AUG/COOK85/ELEVSTRS/ELEVSTRS.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15044633) (100 pts) [![image](../img/AC.png)](#) | | |
-| [COOK85](https://www.codechef.com/COOK85) | [OBTTRNGL](https://www.codechef.com/COOK85/problems/OBTTRNGL) | ★★★ | | | | |
+| [COOK85](https://www.codechef.com/COOK85) | [OBTTRNGL](https://www.codechef.com/COOK85/problems/OBTTRNGL) | ★★★ | | [![image](../img/GH.png)](AUG/COOK85/OBTTRNGL/OBTTRNGL.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15051769) (100 pts) [![image](../img/AC.png)](#) | | |
 | [COOK85](https://www.codechef.com/COOK85) | [MTRXMOD](https://www.codechef.com/COOK85/problems/MTRXMOD) | ★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [GAMSTICK](https://www.codechef.com/COOK85/problems/GAMSTICK) | ★★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [TRCNTCT](https://www.codechef.com/COOK85/problems/TRCNTCT) | ★★★★★ | | | | |

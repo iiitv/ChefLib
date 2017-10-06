@@ -10,33 +10,33 @@
 
 using namespace std;
 
-#define mod(x) 			x%1000000007;
-#define MIN(n1, n2 )    ((n1) > (n2) ? (n2) : (n1))
-#define MAX(n1, n2 )    ((n1) > (n2) ? (n1) : (n2))
-#define MID(s, e)       (s+(e-s)/2)
-#define FOR(i, a, b) 	int i; for(i=(a);i<(b);i++)
-#define FORD(i, a, b) 	int i; for(i=(a);i>(b);i--)
+#define mod(x)			x%1000000007;
+#define MIN(n1, n2 )	((n1) > (n2) ? (n2) : (n1))
+#define MAX(n1, n2 )	((n1) > (n2) ? (n1) : (n2))
+#define MID(s, e)		(s+(e-s)/2)
+#define FOR(i, a, b)	int i; for(i=(a);i<(b);i++)
+#define FORD(i, a, b)	int i; for(i=(a);i>(b);i--)
 #define show(a)			for(i=0;i<sizeof(a);i++) cout<<a[i]<<" ";
 #define get(a)			for(i=0;i<sizeof(a);i++) cin>>a[i];
-#define scanint(a) 		scanf("%d",&a)
-#define scanLLD(a) 		scanf("%lld",&a)
-#define scanstr(s) 		scanf("%s",s)
+#define scanint(a)		scanf("%d",&a)
+#define scanLLD(a)		scanf("%lld",&a)
+#define scanstr(s)		scanf("%s",s)
 #define scanline(l) 	scanf(" %[^\n]",l);
 
 typedef long int BIG;
 typedef unsigned long long PAPA;
 
 long long fast_power(long long base, long long power) {
-    long long result = 1;
-    while(power > 0) {
+	long long result = 1;
+	while(power > 0) {
 
-        if(power % 2 == 1) { // Can also use (power & 1) to make code even faster
-            result = (result*base);
-        }
-        base = (base * base);
-        power = power / 2; // Can also use power >>= 1; to make code even faster
-    }
-    return result;
+		if(power % 2 == 1) { // Can also use (power & 1) to make code even faster
+			result = (result*base);
+		}
+		base = (base * base);
+		power = power / 2; // Can also use power >>= 1; to make code even faster
+	}
+	return result;
 }
 
 bool check(PAPA pro, int n) {
@@ -102,5 +102,5 @@ int main() {
 		cout << mod(res);
 	}
 
-	return 0;	
+	return 0;
 }

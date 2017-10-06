@@ -44,7 +44,7 @@ int main()
 		}
 		//printf("count = %ld\n",count);
 		if(count>=k){
-		printf("%ld\n",a[mid]);	
+		printf("%ld\n",a[mid]);
 		}
 		else if(count<k){
 			printf("-1\n");

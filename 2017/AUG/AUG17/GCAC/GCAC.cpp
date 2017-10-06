@@ -34,16 +34,16 @@ int main() {
 					if(minSalary[i] <= offeredSalary[v[j]] && maxJobOffered[v[j]] > 0 && offeredSalary[v[j]] > maxsalary) {
 						max = v[j];
 						maxsalary = offeredSalary[v[j]];
-					}	
+					}
 				}
-			}	
+			}
 			if(max! =- 1) {
 				cost += offeredSalary[max];
 				maxJobOffered[max]--;
 				jobs++;
 				s.insert(max);
 			}
-		}	
+		}
 	cout << jobs << " " << cost << " " << companies-s.size() << endl;
 	}
 	return 0;
