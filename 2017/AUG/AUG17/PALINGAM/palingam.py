@@ -1,5 +1,5 @@
 t = int(input())
-while t > 0 :
+while t > 0:
     a = input()
     b = input()
     la = list()
