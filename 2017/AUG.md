@@ -12,7 +12,7 @@
 | [AUG17](https://www.codechef.com/AUG17) | [RAINBOWA](https://www.codechef.com/AUG17/problems/RAINBOWA) | ★★ | | [![image](../img/GH.png)](AUG/AUG17/RAINBOWA/RAINBOWA.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14909134) (100 pts) [![image](../img/AC.png)](#) | [![image](../img/GH.png)](AUG/AUG17/RAINBOWA/RAINBOWA.java)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14859923) (100 pts) [![image](../img/AC.png)](#) | |
 | [AUG17](https://www.codechef.com/AUG17) | [CHEFMOVR](https://www.codechef.com/AUG17/problems/CHEFMOVR) | ★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [GCAC](https://www.codechef.com/AUG17/problems/GCAC) | ★★★ | | [![image](../img/GH.png)](AUG/AUG17/GCAC/GCAC.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14947059) (100 pts) [![image](../img/AC.png)](#) | | |
-| [AUG17](https://www.codechef.com/AUG17) | [PALINGAM](https://www.codechef.com/AUG17/problems/PALINGAM) | ★★★ | | | | |
+| [AUG17](https://www.codechef.com/AUG17) | [PALINGAM](https://www.codechef.com/AUG17/problems/PALINGAM) | ★★★ | | [![image](../img/GH.png)](AUG/AUG17/PALINGAM/PALINGAM.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/14908284) (100 pts) [![image](../img/AC.png)](#) | | |
 | [AUG17](https://www.codechef.com/AUG17) | [CHEFFA](https://www.codechef.com/AUG17/problems/CHEFFA) | ★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [STRINGRA](https://www.codechef.com/AUG17/problems/STRINGRA) | ★★★★ | | | | |
 | [AUG17](https://www.codechef.com/AUG17) | [MATDW](https://www.codechef.com/AUG17/problems/MATDW) | ★★★★ | | | | |
