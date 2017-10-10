@@ -1,4 +1,4 @@
-// Copyright - udit3333(Codechef)   
+// Copyright - udit3333(Codechef)
 #include <vector>
 #include <stack>
 #include <set>
