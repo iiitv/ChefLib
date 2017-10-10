@@ -1,20 +1,14 @@
 // BY: _nishant0208_
-
 #include <bits/stdc++.h>
 #include <algorithm>
 using namespace std;
 typedef long long ll;
-
 #define MAX1  1000000007
-
 #define MAX2  1000000009
-
 #define MAX 100001
-
 ll MOD;
 ll exponent(ll, ll);
 ll modinverse(ll);
-
 int main(){
     ll t;
     cin >> t;
@@ -51,7 +45,6 @@ int main(){
     }
     return 0;
 }
-
 ll exponent(ll a, ll b) {
     if(b == 0)
         return 1;
@@ -59,7 +52,6 @@ ll exponent(ll a, ll b) {
     temp = (temp * temp) % MOD;
     return (b % 2 == 0) ? temp : ((a % MOD) * temp) % MOD;
 }
-
 ll modinverse(ll val) {
     return exponent(val, MOD - 2);
 }
