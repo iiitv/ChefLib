@@ -55,3 +55,4 @@ ll exponent(ll a, ll b) {
 ll modinverse(ll val) {
     return exponent(val, MOD - 2);
 }
+
