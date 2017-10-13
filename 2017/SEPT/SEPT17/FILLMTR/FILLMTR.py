@@ -23,7 +23,7 @@ def main():
                 continue
             else:
                 if(good[i[0]] == 'a' and good[i[1]] == 'a'):
-                    if(i[2]==1):
+                    if(i[2] == 1):
                         good[i[0]] = 1
                         good[i[1]] = 0
                     else:
@@ -62,6 +62,7 @@ def main():
         else:
             print "no"
 
+            
 if __name__ == '__main__':
     main()
     
