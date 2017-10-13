@@ -62,7 +62,6 @@ def main():
         else:
             print "no"
 
-            
+
 if __name__ == '__main__':
     main()
-    
