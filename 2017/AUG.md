@@ -26,7 +26,7 @@
 | Contest | Problem | [ECR](#ecr) | C | C++ | Java | Python |
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [COOK85](https://www.codechef.com/COOK85) | [ELEVSTRS](https://www.codechef.com/COOK85/problems/ELEVSTRS) | ★★ | | [![image](../img/GH.png)](AUG/COOK85/ELEVSTRS/ELEVSTRS.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15044633) (100 pts) [![image](../img/AC.png)](#) | | |
-| [COOK85](https://www.codechef.com/COOK85) | [OBTTRNGL](https://www.codechef.com/COOK85/problems/OBTTRNGL) | ★★★ | | [![image](../img/GH.png)](AUG/COOK85/OBTTRNGL/OBTTRNGL.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15051769) (100 pts) [![image](../img/AC.png)](#) | | |
+| [COOK85](https://www.codechef.com/COOK85) | [OBTTRNGL](https://www.codechef.com/COOK85/problems/OBTTRNGL) | ★★★ | | [![image](../img/GH.png)](AUG/COOK85/OBTTRNGL/OBTTRNGL.cpp)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15051769) (100 pts) [![image](../img/AC.png)](#) | | [![image](../img/GH.png)](AUG/COOK85/OBTTRNGL/OBTTRNGL.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15057276) (100 pts) [![image](../img/AC.png)](#) |
 | [COOK85](https://www.codechef.com/COOK85) | [MTRXMOD](https://www.codechef.com/COOK85/problems/MTRXMOD) | ★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [GAMSTICK](https://www.codechef.com/COOK85/problems/GAMSTICK) | ★★★★★ | | | | |
 | [COOK85](https://www.codechef.com/COOK85) | [TRCNTCT](https://www.codechef.com/COOK85/problems/TRCNTCT) | ★★★★★ | | | | |
