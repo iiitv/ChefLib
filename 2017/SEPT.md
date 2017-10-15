@@ -14,7 +14,7 @@
 | [SEPT17](https://www.codechef.com/SEPT17) | [CHEFPDIG](https://www.codechef.com/SEPT17/problems/CHEFPDIG) | ★★★ | | | | [![image](../img/GH.png)](SEPT/SEPT17/CHEFPDIG/CHEFPDIG.py)  [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15339840) (100 pts) [![image](../img/AC.png)](#) |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SEACO](https://www.codechef.com/SEPT17/problems/SEACO) | ★★★★ | | [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15338761)  [![image](../img/GH.png)](SEPT/SEPT17/SEACO/SEACO.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [FILLMTR](https://www.codechef.com/SEPT17/problems/FILLMTR) | ★★★★ | | [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15243260)  [![image](../img/GH.png)](SEPT/SEPT17/FILLMTR/FILLMTR.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
-| [SEPT17](https://www.codechef.com/SEPT17) | [WEASELTX](https://www.codechef.com/SEPT17/problems/WEASELTX) | ★★★★★ | | | | |
+| [SEPT17](https://www.codechef.com/SEPT17) | [WEASELTX](https://www.codechef.com/SEPT17/problems/WEASELTX) | ★★★★★ | | [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15335472)  [![image](../img/GH.png)](SEPT/SEPT17/WEASELTX/WEASELTX.cpp) (100 pts)  [![image](../img/AC.png)](#) | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SEAFUNC](https://www.codechef.com/SEPT17/problems/SEAFUNC) | ★★★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [SUMCUBE](https://www.codechef.com/SEPT17/problems/SUMCUBE) | ★★★★★★ | | | | |
 | [SEPT17](https://www.codechef.com/SEPT17) | [WEASELSC](https://www.codechef.com/SEPT17/problems/WEASELSC) | ★★★★★★ | | | | |
