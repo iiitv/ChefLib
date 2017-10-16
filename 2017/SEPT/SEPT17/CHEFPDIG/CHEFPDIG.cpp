@@ -3,10 +3,10 @@
 using namespace std;
 
 int main() {
-    std::ios::sync_with_stdio(false);
-    int testCases;
-    cin >> testCases;
-    while(testCases--) {
+     std::ios::sync_with_stdio(false);
+     int testCases;
+     cin >> testCases;
+     while(testCases--) {
         string input;
         vector<int> alpha(10, 0);
         cin >> input;
@@ -26,6 +26,6 @@ int main() {
             }
         }
         cout << endl;
-    }
-    return 0;
+     }
+     return 0;
 }
