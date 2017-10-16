@@ -5,7 +5,7 @@ def main():
         l = int(input())
         arr = list(map(int, input().split()))
         print(arr.index(min(arr)) + 1)
-        
+
 
 if __name__ == '__main__':
     main()
