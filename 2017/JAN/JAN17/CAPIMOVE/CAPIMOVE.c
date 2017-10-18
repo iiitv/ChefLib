@@ -11,8 +11,8 @@
 typedef long long int lli;
 typedef long int li;
 #define mod(x) x%1000000007;
-#define MIN( n1, n2 )   ((n1) > (n2) ? (n2) : (n1))
-#define MAX( n1, n2 )   ((n1) > (n2) ? (n1) : (n2))
+#define MIN( n1, n2 )	((n1) > (n2) ? (n2) : (n1))
+#define MAX( n1, n2 )	((n1) > (n2) ? (n1) : (n2))
 
 
 int main()
@@ -35,7 +35,7 @@ int main()
 			for(j=0;j<n;j++)
 				adj[i][j] = 0;
 		}
-		
+
 		for(i=0;i<n-1;i++)
 		{
 			scanf("%ld %ld",&t1,&t2);
@@ -44,7 +44,7 @@ int main()
 		}
 
 	/* Adj Matrix Start -----
-		
+
 		for(i=0;i<n;i++)
 		{
 			for(j=0;j<n;j++)

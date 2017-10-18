@@ -18,7 +18,7 @@
 | [FEB17](https://www.codechef.com/FEB17) | [CHEFYODA](https://www.codechef.com/FEB17/problems/CHEFYODA) | ★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [CHEFBEST](https://www.codechef.com/FEB17/problems/CHEFBEST) | ★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [ALICGARD](https://www.codechef.com/FEB17/problems/ALICGARD) | ★★★★ | | | | |
-| [FEB17](https://www.codechef.com/FEB17) | [DISTNUM3](https://www.codechef.com/FEB17/problems/DISTNUM3) | ★★★★★ | | | | |
+| [FEB17](https://www.codechef.com/FEB17) | [DISTNUM3](https://www.codechef.com/FEB17/problems/DISTNUM3) | ★★★★★ | | [![image](../img/GH.png)](FEB/FEB17/DISTNUM3/DISTNUM3.cpp) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/12870071) (100 pts) [![image](../img/AC.png)](#) | | |
 | [FEB17](https://www.codechef.com/FEB17) | [SEAINVS](https://www.codechef.com/FEB17/problems/SEAINVS) | ★★★★★ | | | | |
 | [FEB17](https://www.codechef.com/FEB17) | [JAKKU](https://www.codechef.com/FEB17/problems/JAKKU) | ★★★★★ | | | | |
 

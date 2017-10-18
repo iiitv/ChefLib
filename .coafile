@@ -1,18 +1,14 @@
 # For local fixing
 # coala --apply-patches -n
 
-# python
-[Python Spacing]
-files = **/*.py
+# C/C++ Spacing
+[C/CPP Spacing]
+files = **/*.c, **/*.cpp
 bears = SpaceConsistencyBear
-use_spaces = True
+use_spaces = False
 
-# python lint
+# Python lint
 [pep8]
 files = **/*.py
 bears = PEP8Bear
 
-#Java Lint
-[CheckStyleBear]
-files = **/*.java
-bears = CheckstyleBear

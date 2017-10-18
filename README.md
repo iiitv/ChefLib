@@ -1,8 +1,10 @@
 # ChefLib
 
+[![Build Status](https://travis-ci.org/iiitv/ChefLib.svg?branch=master)](https://travis-ci.org/iiitv/ChefLib)
 [![Join the chat at https://gitter.im/iiitv/ChefLib](https://badges.gitter.im/iiitv/ChefLib.svg)](https://gitter.im/iiitv/ChefLib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub issues](https://img.shields.io/github/issues/iiitv/ChefLib.svg)](https://github.com/iiitv/ChefLib/issues)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/iiitv/ChefLib/issues)
+[![Contributors](https://img.shields.io/github/contributors/iiitv/ChefLib.svg)](https://github.com/iiitv/ChefLib/graphs/contributors)
 [![Code Climate](https://codeclimate.com/github/iiitv/ChefLib/badges/gpa.svg)](https://codeclimate.com/github/iiitv/ChefLib)
 
 ### Library of Sweet Dishes (codes) by Chefs (Coders).

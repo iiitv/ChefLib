@@ -21,10 +21,10 @@ def main():
                     products.append(tmp)
             products.append(i)
             answer += 1
-    answer += (((2**one)-1)* answer)
+    answer += (((2**one)-1) * answer)
     answer += (one*(one+1))//2
     print(answer)
- 
-     
+
+
 if __name__ == '__main__':
     main()
