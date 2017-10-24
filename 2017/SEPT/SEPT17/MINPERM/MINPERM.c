@@ -26,10 +26,10 @@ int main()	{
 			}
 			j = arr[n - 1];
 			arr[n - 1] = arr[n];
-			arr[n] = j;	
+			arr[n] = j;
 		}
 		for(i = 1; i <= n; i++){
-			printf("%d ",arr[i]);
+			printf("%d ", arr[i]);
 		}
 		printf("\n");
 	}
