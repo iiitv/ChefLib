@@ -53,7 +53,7 @@ This section will contain ★s which will represent CodeChef's ★ Rating.
 See [CONTRIBUTING.md](https://github.com/iiitv/ChefLib/blob/master/CONTRIBUTING.md).
 
 ## Adding Entry to month README
-#### If you are confused over how to add an entry to the monthwise README's you can always read [this](.github/ADD_ME_IN_README.md)
+#### If you are confused on how to add an entry to the Month wise README's you can always read [this](.github/ADD_ME_IN_README.md)
 
 ## Project Maintainers
 
