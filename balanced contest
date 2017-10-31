@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    char in[]="in00.txt",out[]="out00.txt";
+    for(int j='0';j<='9';j++)
+    {
+        in[3]=j;
+        out[4]=j;
+    ofstream in_data(in);
+    ofstream out_data(out);
+    ios_base::sync_with_stdio(false);
+    long int t;
+    t=rand();
+    in_data<<t<<"\n";
+    while(t--)
+    {
+        long long int n,i,k;
+        n=rand();
+        k=rand();
+        in_data<<n<<" "<<k<<"\n";
+        long long int num,easy=0,hard=0;
+        for(i=0;i<n;i++)
+        {
+            num=rand();
+            in_data<<num<<"\n";
+            if(num>=(k/2))
+             easy++;
+            if(num<=(k/10))
+                hard++;
+        }
+        if(k==1 && n==3 && hard>=2)
+          {
+             out_data<<"yes\n";
+        continue;
+          }
+        if(easy==1 && hard==2)
+            out_data<<"yes\n";
+        else
+            out_data<<"no\n";
+    }
+    }
+}
