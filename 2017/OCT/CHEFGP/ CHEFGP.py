@@ -2,7 +2,7 @@ t = int(input())
 while t > 0:
     s = input()
     w = ""
-    x,y = map(int, input().split())
+    x, y = map(int, input().split())
     na = s.count("a")
     nb = s.count("b")
     if na > nb:
@@ -18,7 +18,7 @@ while t > 0:
         x = y
         y = tamp
     h = ""
-    xa = na/x
+    xa = na / x
     mini = int(min(xa, nb))
     h = h + smax * x
     h = h + smin
@@ -57,7 +57,7 @@ while t > 0:
                 rb -= 1
                 l += 1
             else:
-            	i += 1
+                i += 1
             i += 1
     print(w)
     t -= 1
