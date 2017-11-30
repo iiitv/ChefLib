@@ -11,7 +11,7 @@
 |:--------------|:----------------:|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
 | [OCT17](https://www.codechef.com/OCT17) | [PERFCONT](https://www.codechef.com/OCT17/problems/PERFCONT) | ★★ | | | | |
 | [OCT17](https://www.codechef.com/OCT17) | [MEX](https://www.codechef.com/OCT17/problems/MEX) | ★★ | | | | |
-| [OCT17](https://www.codechef.com/OCT17) | [CHEFCOUN](https://www.codechef.com/OCT17/problems/CHEFCOUN) | ★★★ | | | | |
+| [OCT17](https://www.codechef.com/OCT17) | [CHEFCOUN](https://www.codechef.com/OCT17/problems/CHEFCOUN) | ★★★ | | | | [![image](../img/GH.png)](OCT/OCT17/CHEFGP/CHEFGP.PY) [![image](../img/CC.png)](https://www.codechef.com/viewsolution/15855836) (100 pts)  [![image](../img/AC.png)](#) |
 | [OCT17](https://www.codechef.com/OCT17) | [CHEFGP](https://www.codechef.com/OCT17/problems/CHEFGP) | ★★★★ | | | | |
 | [OCT17](https://www.codechef.com/OCT17) | [CHEFCCYL](https://www.codechef.com/OCT17/problems/CHEFCCYL) | ★★★★ | | | | |
 | [OCT17](https://www.codechef.com/OCT17) | [MARRAYS](https://www.codechef.com/OCT17/problems/MARRAYS) | ★★★★★ | | | | |
